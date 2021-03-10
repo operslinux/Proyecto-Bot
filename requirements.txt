@@ -1,0 +1,4 @@
+image==1.5.33
+python-telegram-bot==13.3
+qrcode==6.1
+telegram==0.0.1

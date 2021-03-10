@@ -1,0 +1,4 @@
+@admin - en tu mensaje para mandar mensaje a los administradores o reportar a alguien (PROXIMAMENTE)
+/reglas - ver las reglas del canal (PROXIMAMENTE)
+/redes - ver las redes sociales de la comunidad
+/videos - ver listas de reproduccion (PROXIMAMENTE)
