@@ -96,6 +96,44 @@ def password(update, context):
     context.bot.deleteMessage(chat_id, message_id)
 
 
+"""Se usara para dar avisos desde el grupo que sean admins,
+           por ejemplo desde el grupo proyecto x """
+
+
+def aviso(update, context):
+    chat_id = update.message.chat_id
+    user_id = update.message.from_user.id
+    data = context.bot.get_chat_member(chat_id, user_id)
+    mi_title = str(data['status'])
+
+    if str(mi_title) == "administrador":
+
+        messages = update.message.text
+        find = "/aviso"
+        replace = "Mensaje Automatico: "
+        new_string = messages.replace(find, replace)
+        chat_id_kali_linux = -1001328032477
+        context.bot.send_message(chat_id_kali_linux, new_string)
+    elif str(mi_title) == "creator":
+
+        messages = update.message.text
+        find = "/aviso"
+        replace = "Mensaje Automatico: "
+        new_string = messages.replace(find, replace)
+        chat_id_kali_linux = -1001328032477
+        context.bot.send_message(chat_id_kali_linux, new_string)
+
+    else:
+        update.message.reply_text("Usted no es administrador")
+
+
+"""Simplemente de prueba para sacar los ids de los grupos o chats """
+
+
+def ide(update, context):
+    print(update.message)
+
+
 def error(update, context):
     """Log Errors caused by Updates."""
     logger.warning('Update "%s" caused error "%s"', update, context.error)
@@ -107,7 +145,7 @@ def main():
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater("token", use_context=True)
+    updater = Updater("1642041332:AAGiTV4_LWC3jakhoLdXZFTdbFnvx-AQCuw", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
@@ -117,6 +155,8 @@ def main():
     dp.add_handler(CommandHandler("start", start))
     dp.add_handler(CommandHandler("redes", redes))
     dp.add_handler(CommandHandler("pass", password))
+    dp.add_handler(CommandHandler("aviso", aviso))
+    dp.add_handler(CommandHandler("id", ide))
     dp.add_handler(ConversationHandler(
         entry_points=[
             CommandHandler('qr', qr_command)
