@@ -1,0 +1,23 @@
+[
+  {
+    "admin": "@admin",
+    "explanation": "llamar la atencion de los admins"
+  },
+  {
+    "reglas": "/reglas",
+    "explanation": "Ver las reglas del canal"
+  },
+  {
+    "redes": "/redes",
+    "explanation": "Ver las reglas del canal"
+  },
+  {
+    "qr": "/qr",
+    "explanation": "Generar un codigo QR"
+  },
+  {
+    "pass": "pass",
+    "explanation": "Generar una contraseña aleatoria"
+  }
+
+]

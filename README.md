@@ -34,7 +34,7 @@ $ apt install git python3
 $ git clone https://github.com/operslinux/Proyecto-bot-telegram.git
 ```
 ```
-$ cd Proyecto-Bot-telegram
+$ cd Proyecto-Bot
 ```
 ```
 $ sudo chmod +x LaHackerBot.py

@@ -8,9 +8,10 @@ from telegram.ext import *
 from time import sleep
 import qrcode
 import os
+from random import choice
 
 INPUT_TEXT = 0
-
+ruta = "data/admins.json"
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -22,11 +23,10 @@ logger = logging.getLogger(__name__)
 # Define a few command handlers. These usually take the two arguments update and
 # context. Error handlers also receive the raised TelegramError object in error.
 def start(update, context):
-
     user = update.message.from_user
 
     test = update.message.reply_text(
-        "Hola @" + "{} soy El Bot La Hacker coloca /Help para mas información".format(user["username"]))
+        "Hola @" + "{} soy El Bot La Hacker coloca / (slash) para mas información".format(user["username"]))
     chat_id = test['chat_id']
     message_id = test['message_id']
     sleep(10)
@@ -42,29 +42,11 @@ def redes(update, context):
                 [InlineKeyboardButton("Grupo telegram", url="https://t.me/kalilinuxparanovatosoficcial")],
                 [InlineKeyboardButton("Pagina Web", url="https://operslinux.com/")]]
     reply_markup = InlineKeyboardMarkup(keyboard)
-    update.message.reply_text("Hola @" + "{} soy La Hacker mi creador es Opers Linux, aqui te dejo la informacion: ".format(user["username"]),
-                              reply_markup=reply_markup
+    update.message.reply_text(
+        "Hola @" + "{} soy La Hacker, aqui te dejo la informacion: ".format(user["username"]),
+        reply_markup=reply_markup
 
-
-                              )
-
-
-def helps(update, context):
-    try:
-        with open("help.txt", "r") as ayuda:
-            responder = ayuda.read()
-            test = update.message.reply_text(responder)
-            chat_id = test['chat_id']
-            message_id = test['message_id']
-            sleep(10)
-            context.bot.deleteMessage(chat_id, message_id)
-    except FileNotFoundError as e:
-        test = update.message.reply_text("Error de Conexion File")
-        chat_id = test['chat_id']
-        message_id = test['message_id']
-        sleep(10)
-        context.bot.deleteMessage(chat_id, message_id)
-        print(e)
+        )
 
 
 def qr_command(update, context):
@@ -99,6 +81,20 @@ def input_text(update, context):
     return ConversationHandler.END
 
 
+"""Simplemente generamos una contraseña aleatoria"""
+
+
+def password(update, context):
+    length = 30
+    values = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ<=>@#%&+ "
+    passwd = ""
+    passwd = passwd.join([choice(values) for _ in range(length)])
+    test = update.message.reply_text(passwd)
+    message_id = test['message_id']
+    chat_id = test['chat_id']
+    sleep(10)
+    context.bot.deleteMessage(chat_id, message_id)
+
 
 def error(update, context):
     """Log Errors caused by Updates."""
@@ -106,14 +102,12 @@ def error(update, context):
 
 
 def main():
-    
-    
     print("Comenzando..")
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater("TOKEN", use_context=True)
+    updater = Updater("token", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
@@ -122,7 +116,7 @@ def main():
 
     dp.add_handler(CommandHandler("start", start))
     dp.add_handler(CommandHandler("redes", redes))
-    dp.add_handler(CommandHandler("help", helps))
+    dp.add_handler(CommandHandler("pass", password))
     dp.add_handler(ConversationHandler(
         entry_points=[
             CommandHandler('qr', qr_command)
@@ -138,8 +132,6 @@ def main():
     # dp.add_handler(MessageHandler(Filters.text, echo))
 
     # dp.add_handler(MessageHandler(Filters.text, charla))
-
-
 
     # log all errors
     dp.add_error_handler(error)
