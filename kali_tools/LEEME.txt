@@ -1,0 +1,20 @@
+La idea es usar esta carpeta para almacenar información relevante
+que podría llegar a ser de utilidad para los usuarios.
+
+El archivo gather_tools_info.py es el script usado para actualizar u
+obtener el contenido especificado para cada herramienta disponible en 
+la página oficial de las herramientas de kali.
+
+El archivo kali_tools.json está dispuesto así:
+{
+    <categoría>: {
+        <nombre de la herramienta>: {
+            "url": <url de referencia>,
+            "content": {
+                "homepage_url": <url de la página de la herramienta>,
+                "kali_repo_url": <url del repositorio de kali>,
+                "description": <descripción de la herramienta>
+            }
+        }
+    }
+}
