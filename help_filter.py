@@ -1,3 +1,4 @@
+from utils import remove_accents
 import json
 import re
 
