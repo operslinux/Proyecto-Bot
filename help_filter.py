@@ -16,12 +16,6 @@ las acciones necesarias.
 """
 
 
-# Función para remover los acentos
-def remove_accents(text):
-    for key, value in {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u"}.items(): text = text.replace(key, value)
-    return text
-
-
 # Diccionario que será utilizado adelante
 help_keywords = [
     ("error", 23), ("pueden", 23), ("puedes", 23),
