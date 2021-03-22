@@ -32,7 +32,7 @@ Esta clase contiene los atributos del etiquetado de los mensajes, que son:
     errors: si el mensaje puede relacionarse con un error.
     installation_tags: si el mensaje puede relacionarse con una instalación.
     programs: si el mensaje puede relacionarse con un programa, y cuál.
-    begginer_tabs: si el mensaje se puede relacionar con un usuario primerizo en busca de recursos.
+    beginner_tabs: si el mensaje se puede relacionar con un usuario primerizo en busca de recursos.
     keywords: palabras clave para aportar más contexto.
     programming_languages: si el mensaje se puede relacionar con un lenguaje de programación, y cuál.
 """
@@ -55,7 +55,7 @@ class TagMessage:
         self.errors = "error" in self.message_list
         self.installation_tags = self.installation_tags()
         self.programs = [ tool for tool in all_tools if tool in self.message_list ]
-        self.begginer_tags = self.begginer_tags()
+        self.beginner_tags = self.beginner_tags()
         self.keywords = [ keyword for keyword in keywords if keyword in self.message_list ]
         self.programming_languages = [ language for language in programming_languages if language in self.message_list ]
 
@@ -64,7 +64,7 @@ class TagMessage:
         if self.errors: tags.append("error")
         if self.installation_tags: tags.append("installation")
         if len(self.programs) > 0: tags.append("program")
-        if self.begginer_tags: tags.append("begginer")
+        if self.beginner_tags: tags.append("beginner")
         if len(self.keywords) > 0: tags.append("keyword")
         if len(self.programming_languages) > 0: tags.append("programming_language")
 
@@ -77,14 +77,59 @@ class TagMessage:
             return True
         return False
 
-    def begginer_tags(self):
+    def beginner_tags(self):
         if re.search("mundo", self.message) is not None:
             return True
         if re.search("soy nuevo", self.message) is not None:
             return True
         return False
+"""
+"error"
+"installation"
+"program"
+"beginner"
+"keyword"
+"programming_language"
+"""
+def hierarchy_filter(tags):
+    # Ayudará a definir qué etiqueta es más importante
+    # la tupla contiene las etiquetas a comparar
+    # el valor es la etiqueta que se removerá de la lista de etiquetas
+    # ya que la otra es más relevante.
+    dic = {
+            ("error", "installation"): "error",
+            ("error", "program"): "error",
+            ("error", "programming_language"): "error",
+            ("error", "beginner"): "error",
+            ("program", "programming_language"): "programming_language",
+            }
+    for (x, y), word_to_remove in dic.items():
+        if x in tags and y in tags:
+            tags.remove(word_to_remove)
+
+    # Definir la etiqueta principal y las etiquetas adicionales
+    dic = {
+            ("installation", "program"): {"main":"program", "aditional":["installation"]},
+            ("installation", "programming_language"): {"main":"programming_language", "aditional":["installation"]},
+            ("installation", "beginner"): {"main":"installation", "aditional":["beginner"]},
+            ("program", "beginner"):{"main":"beginner", "aditional":["program"]},
+            }
+    order = None
+    for (x, y), value in dic.items():
+        if x in tags and y in tags:
+            order = value
+    if order is not None and "keyword" in tags:
+        order["aditional"].append("keyword")
+    else:
+        if len(tags) > 1:
+            print(tags)
+
+def define_actions(tagged_message):
+    all_tags = tagged_message.all_tags
+    formatted_tags = hierarchy_filter(all_tags)
 
 for message in messages:
     tagged_message = TagMessage(message)
-    print(tagged_message.all_tags)
+    if tagged_message.all_tags is not None:
+        actions = define_actions(tagged_message)
 
