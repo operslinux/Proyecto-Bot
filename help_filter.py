@@ -74,7 +74,7 @@ def main():
         print(f"\n{message}\n\n{'. ' * 30} #{index} MENSAJE CONFIRMADO {'. ' * 30}\n")
 
     # Imprimir mensajes ignorados
-    """for index, message in enumerate(ignored_help_messages)  : 
+    """for index, message in enumerate(ignored_help_messages)  :
     print(f"\n{message}\n\n{'. '*30} #{index} MENSAJE IGNORADO {'. '*30}\n") """
 
 

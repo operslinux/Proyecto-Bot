@@ -1,5 +1,10 @@
 import json
 
+"""
+Módulo con funciones que se implementan
+en distintos scripts.
+"""
+
 KALI_TOOLS_DATA_PATH = "kali_tools/kali_tools.json"
 
 # Esta clase nos permite obtener las herramientas en diferentes formatos.
