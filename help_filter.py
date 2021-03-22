@@ -38,10 +38,10 @@ def needs_help(message):
                 if re.search("ayud", text): return True
             return False
 
-    for keyword_tuple in help_keywords:
-        pattern, extend = keyword_tuple
+    for pattern, extend in help_keywords:
         if is_close_match(pattern, message, extend):
             return True
+
     return False
 
 

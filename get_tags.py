@@ -9,12 +9,16 @@ with open("help_messages.pick", "rb") as file:
     file.close()
 messages=pickle.loads(data)
 
-all_tools = [ tool.lower() for tool in KaliTools.tools_list ]
+# Lista de software instalable para ser detectado.
+all_installables = []
+tools = [ tool.lower() for tool in KaliTools.tools_list ]
+all_installables.extend(tools)
+all_installables.extend(["ubuntu", "windows", "kali", "fedora", "parrot"])
 
 # Palabras clave para aportar contexto.
 keywords = [
 "boot", "usb", "pdf", "curso", "maquina virtual",
-"payload", "audio", "red", "wifi"
+"payload", "audio", "red", "wifi", "libro", "libros"
 ]
 
 # Lenguajes de programación incluídos para detectar.
@@ -31,7 +35,7 @@ Esta clase contiene los atributos del etiquetado de los mensajes, que son:
 
     errors: si el mensaje puede relacionarse con un error.
     installation_tags: si el mensaje puede relacionarse con una instalación.
-    programs: si el mensaje puede relacionarse con un programa, y cuál.
+    installables: si el mensaje puede relacionarse con software instalable, y cuál.
     beginner_tabs: si el mensaje se puede relacionar con un usuario primerizo en busca de recursos.
     keywords: palabras clave para aportar más contexto.
     programming_languages: si el mensaje se puede relacionar con un lenguaje de programación, y cuál.
@@ -54,7 +58,7 @@ class TagMessage:
     def define_tags(self):
         self.errors = "error" in self.message_list
         self.installation_tags = self.installation_tags()
-        self.programs = [ tool for tool in all_tools if tool in self.message_list ]
+        self.installables = [ software for software in all_installables if software in self.message_list ]
         self.beginner_tags = self.beginner_tags()
         self.keywords = [ keyword for keyword in keywords if keyword in self.message_list ]
         self.programming_languages = [ language for language in programming_languages if language in self.message_list ]
@@ -63,7 +67,7 @@ class TagMessage:
         tags = []
         if self.errors: tags.append("error")
         if self.installation_tags: tags.append("installation")
-        if len(self.programs) > 0: tags.append("program")
+        if len(self.installables) > 0: tags.append("installable")
         if self.beginner_tags: tags.append("beginner")
         if len(self.keywords) > 0: tags.append("keyword")
         if len(self.programming_languages) > 0: tags.append("programming_language")
@@ -80,13 +84,15 @@ class TagMessage:
     def beginner_tags(self):
         if re.search("mundo", self.message) is not None:
             return True
+        if re.search("mundillo", self.message) is not None:
+            return True
         if re.search("soy nuevo", self.message) is not None:
             return True
         return False
 """
 "error"
 "installation"
-"program"
+"installable"
 "beginner"
 "keyword"
 "programming_language"
@@ -98,38 +104,47 @@ def hierarchy_filter(tags):
     # ya que la otra es más relevante.
     dic = {
             ("error", "installation"): "error",
-            ("error", "program"): "error",
+            ("error", "installable"): "error",
             ("error", "programming_language"): "error",
             ("error", "beginner"): "error",
-            ("program", "programming_language"): "programming_language",
             }
     for (x, y), word_to_remove in dic.items():
+        # Si las etiquetas de la tupla están presentes en las etiquetas, entonces
+        # remover el valor correspondiente de las etiquetas.
         if x in tags and y in tags:
             tags.remove(word_to_remove)
 
     # Definir la etiqueta principal y las etiquetas adicionales
     dic = {
-            ("installation", "program"): {"main":"program", "aditional":["installation"]},
+            ("installation", "installable"): {"main":"installable", "aditional":["installation"]},
             ("installation", "programming_language"): {"main":"programming_language", "aditional":["installation"]},
             ("installation", "beginner"): {"main":"installation", "aditional":["beginner"]},
-            ("program", "beginner"):{"main":"beginner", "aditional":["program"]},
+            ("installable", "beginner"):{"main":"beginner", "aditional":["installable"]},
+            ("installable", "programming_language"):{"main":"installable","aditional":"programming_language"}
             }
     order = None
     for (x, y), value in dic.items():
+        # Si ambas etiquetas (de la tupla) están presentes, definir el órden
+        # como se especifica en el valor correspondiente.
         if x in tags and y in tags:
             order = value
+    # No olvidar añadir la etiqueta de palabras clave en el órden!
     if order is not None and "keyword" in tags:
         order["aditional"].append("keyword")
-    else:
-        if len(tags) > 1:
-            print(tags)
+
+    return tags, order
 
 def define_actions(tagged_message):
     all_tags = tagged_message.all_tags
-    formatted_tags = hierarchy_filter(all_tags)
+    # Obtiene una versión filtrada de las etiquetas junto al
+    # órden que pueden tener.
+    formatted_tags, order = hierarchy_filter(all_tags)
 
 for message in messages:
+    # Crea el objeto "mesaje etiquetado" con los atributos relacionados
+    # con el etiquetado del mensaje.
     tagged_message = TagMessage(message)
+    # Si contiene etiquetas, entonces, que se definan las acciones a tomar.
     if tagged_message.all_tags is not None:
         actions = define_actions(tagged_message)
 
