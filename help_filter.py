@@ -58,7 +58,7 @@ def main():
 
     # ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓                 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓                 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-    clear_messages = [remove_accents(item["text"].lower()) for item in chat if type(item["text"]) == str]
+    clear_messages = [remove_accents(item["text"].lower()) for item in chat if isinstance((item["text"]), str)]
     filter_help = [item for item in clear_messages if re.search("ayuda", item)]
     confirm_help = [message for message in filter_help if needs_help(message)]
 

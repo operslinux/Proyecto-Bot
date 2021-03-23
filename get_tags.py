@@ -37,7 +37,7 @@ Esta clase contiene los atributos del etiquetado de los mensajes, que son:
     installation_tags: si el mensaje puede relacionarse con una instalación.
     installables: si el mensaje puede relacionarse con software instalable, y cuál.
     beginner_tabs: si el mensaje se puede relacionar con un usuario primerizo en busca de recursos.
-    keywords: palabras clave para aportar más contexto.
+    keywords: palabras clave para aportar más contexto, y cuáles.
     programming_languages: si el mensaje se puede relacionar con un lenguaje de programación, y cuál.
 """
 
@@ -47,7 +47,7 @@ class TagMessage:
         # y genera una versión del mensaje como lista y otra como cadena de texto.
         matches = re.finditer("\w+", message.lower())
         self.message_list = [ message[match.start():match.end()] for match in matches ]
-        self.message = ' '.join(x for x in self.message_list)
+        self.message = ' '.join(self.message_list)
 
         # Define etiquetas y los atributos correspondientes.
         self.define_tags()
@@ -67,12 +67,12 @@ class TagMessage:
         tags = []
         if self.errors: tags.append("error")
         if self.installation_tags: tags.append("installation")
-        if len(self.installables) > 0: tags.append("installable")
+        if self.installables: tags.append("installable")
         if self.beginner_tags: tags.append("beginner")
-        if len(self.keywords) > 0: tags.append("keyword")
-        if len(self.programming_languages) > 0: tags.append("programming_language")
+        if self.keywords: tags.append("keyword")
+        if self.programming_languages: tags.append("programming_language")
 
-        if len(tags) > 0:
+        if tags:
             self.all_tags = tags
         else:self.all_tags = None
 
@@ -107,6 +107,7 @@ def hierarchy_filter(tags):
             ("error", "installable"): "error",
             ("error", "programming_language"): "error",
             ("error", "beginner"): "error",
+            ("error", "keyword"): "error",
             }
     for (x, y), word_to_remove in dic.items():
         # Si las etiquetas de la tupla están presentes en las etiquetas, entonces
@@ -116,21 +117,31 @@ def hierarchy_filter(tags):
 
     # Definir la etiqueta principal y las etiquetas adicionales
     dic = {
-            ("installation", "installable"): {"main":"installable", "aditional":["installation"]},
-            ("installation", "programming_language"): {"main":"programming_language", "aditional":["installation"]},
-            ("installation", "beginner"): {"main":"installation", "aditional":["beginner"]},
-            ("installable", "beginner"):{"main":"beginner", "aditional":["installable"]},
-            ("installable", "programming_language"):{"main":"installable","aditional":"programming_language"}
+            ("installation", "installable"): {"main":"installable", "aditional":"installation"},
+            ("installation", "programming_language"): {"main":"programming_language", "aditional":"installation"},
+            ("installation", "beginner"): {"main":"installation", "aditional":"beginner"},
+            ("installable", "beginner"):{"main":"installable", "aditional":"beginner"},
+            ("installable", "programming_language"):{"main":"installable","aditional":"programming_language"},
+            ("installation", "keyword"):{"main":"keyword","aditional":"installation"},
+            ("installable", "keyword"):{"main":"installable", "aditional":"keyword"}
             }
-    order = None
-    for (x, y), value in dic.items():
-        # Si ambas etiquetas (de la tupla) están presentes, definir el órden
-        # como se especifica en el valor correspondiente.
-        if x in tags and y in tags:
-            order = value
-    # No olvidar añadir la etiqueta de palabras clave en el órden!
-    if order is not None and "keyword" in tags:
-        order["aditional"].append("keyword")
+    aditional = []
+    ordered = False
+    if len(tags) > 1:
+        for (x, y), value in dic.items():
+            # Si ambas etiquetas (de la tupla) están presentes, definir el órden
+            # como se especifica en el valor correspondiente.
+            if x in tags and y in tags:
+                aditional.append(value["aditional"])
+                main = value["main"]
+                ordered = True
+        if ordered:
+            aditional = set(aditional)
+            order = {"main":main, "aditional":aditional}
+        else:
+            order = {"main":[], "aditional":tags}
+    else:
+        order = {"main":tags, "aditional":[]}
 
     return tags, order
 
@@ -139,6 +150,12 @@ def define_actions(tagged_message):
     # Obtiene una versión filtrada de las etiquetas junto al
     # órden que pueden tener.
     formatted_tags, order = hierarchy_filter(all_tags)
+    print()
+    print(tagged_message.message)
+    print(formatted_tags)
+    print(order)
+    print("+-"*40)
+    print()
 
 for message in messages:
     # Crea el objeto "mesaje etiquetado" con los atributos relacionados

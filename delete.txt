@@ -1,0 +1,2304 @@
+
+alguien puede ayudarme a configurar mi wifi solo quiero tener dispositivos conectados con su direccion mac
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda a poner kali linux 2020 2 en modo monitor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar cuando uso kali linux no me cambia la ip ayuda porfavor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+envia foto y alguno te ayudara en el grub debes presionar e de editar y buscar una linea q nose si hacia referencia a pass o a shell no recuerdo ahora mismo pero se modificaba eso y ya al reiniciar te iniciava con una shell y tu pues ponias passwd la q sea y ya reinicias y listo
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudas a bootear la usb
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos un salido oigan necesito ayuda con la instalacion de openvas en kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas espero que me puedan ayudar quiero instalar una distribucion de linux en mi pc antigua de pocas caracteristicas
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola estoy utilizando veracrypt en virtualbox con la ultima distribucion de kali linux y al desmontar el fichero me aparece esto alguien me puede a ayudar a arreglar este problema
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayuda con la instalacion de kali linux
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudad con este error de pip2
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me podria ayudar con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenos dias compañeros me podrian ayudar con parte de la configuracion de kali linux hice una instalacion en una particion en mi portatil ya esta instalado pero tengo problemas con el wi fi con el adaptador que trae por defecto no funciona compre un adaptador tl wn823n y este si muestra las redes pero cuando entro a mi red carga y no conecta intente con ethernet pero no navega sale como si no hubiera internet podrian ayudarme gracias
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola tengo un problema con kali linux quien me podria ayudar
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda instale la maquina virtual y ahora no me deja conectar al wifi
+['installation', 'keyword']
+{'main': 'keyword', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola soy nuevo en esto espero y me puedan ayudar tengo un problema al quererme conectar a la red wi fi con una antena tplink en mi caso si la reconoce hasta me aparecen las redes wifi disponibles pero al ingresar la contraseña solo se queda cargando y al final me marca un error saben que pudiera hacer
+['beginner', 'keyword']
+{'main': [], 'aditional': ['beginner', 'keyword']}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+acabando de instalar kali linux pero solo me aparece red cableada como activo el wifi alguien me ayuda porfa
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo un problema al instalar kali linux le doy enter a cualquier opcion y se reinicia probe con diferentes s o de kali y pasa lo mismo alguien podria ayudarme gracias
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenos dias alguien me ayuda con este error porfa
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+por eso si son tan amables me podrian ayudar a bootear la usb
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola bros alguien me puede ayudar es que yo si soy novato lo que pasa es que tengo windows y ubuntu en mi lap y quiero eliminar ubuntu para instalar parrot pero yo nunca he tocado las particiones cuando instale ubuntu le pedi a un amigo que lo hiciera y ahora me doy cuenta que tengo 7 particiones y siento que son muchas pero bueno lo que quiero saber es que particiones debo eliminar sin cagar nada de windows recien reinicie windows y en ubuntu no tengo nada asi que no tengo ningun documento o archivo que perder pero no quiero eliminar algo importante por error
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo instalado kali 2019 2 quiero actualizar y no se puede osea hacer apt get update como es recien instalado talvez falta agregar los repositorios a source list pero cual es el repositorio correcto para 2019 2 4 19 0 kali4 amd64 porfa si pueden ayudar
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gente soy recontra nuevo en este mundo baje termux y un social sploit q es para conseguir cuentas de twitter pero no lo puedo ejecutar xq no tengo ngrok alguien me podria ayudar o decirme como hacer nesesito las cuentas xq se las vendo a un tercero si tienen otro metodo soy todo oidos
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien sabe como correguir ese error ya inventige y intente cambiarlo pero no puedo alguien me ayudaria
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo instalado kali linux intento instalar windows 10 y me sale esto alguna ayuda
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar para que me salga el escritorio de kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gente espero que esten bien espero me puedan ayudar con este problema que tengo en kali pues sucede que lo voy instalando en 2 computadoras distintas y en las 2 no me deja iniciar sesion me dice contraseña incorrecta y la contraseña esta escrita correctamente
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+mano alguno a craqueado una red wifi con kali linux que me pueda ayudar please
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me ayuda a hackear wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+disculpen alguien me puede ayudar a areglar este error por linux
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan para acceder totalmente al movil conectado en mi wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gracias por permitirme unir a este grupo soy nuevo en el mundo de kali linux y como todo nuevo siempre hay problemas instale la version mas reciente de kali inicia normalmente todo normal estoy conectado inalambricamente al wifi pero despues de un rato se pierde la conexion y no detecta ninguna red al alrededor ya desinstale e instale el firmware de la tarjeta y nada me podrian ayudar por favor gracias
+['installation', 'installable', 'beginner', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'beginner', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a configurar kali linux virtual box ya que no me salen las redes wifi no lee la tarjeta de red inalambrica
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo un tio en el ejercito y me pidio de ayuda para obtener un listado nominal alguien tiene idea como puedo tener control de unas computadorasn para sacar la informacion o que herramientas de kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me puede ayudar con este error porfas
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gente necesito ayuda estoy tratando de instalar windows como sistema secundario mi pc no me deja instalarlo porque el disco esta en formato gpt asi que busque en google y segun dice es necesario que haga una usb boot en formato gpt y no en el clasico mbr pero en el tutorial usan la herramienta rufus para windows y no la puedo usar alguien sabe como hacer una usb boot en gpt desde linux por favor gracias
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me pueden ayudar en este paso es de la herramienta set toolkit
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar a configurar mi maquina virtual para conectar una antena wifi melon n4000
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quiero hacer un diccionario pero parece que tengo que tener instalado el crunch y en youtube no hay nada sobre como instalarlo alguien podria ayudarme
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda por favor me aparece ese error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan a hackear los dispositivos conectados al mismo wifi que yo me urge y solo cuento con termux
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar con airgeddon no me abre la pagina cuando me conecto a la red alguien sabe porque pasa o sabe como solucionarlo
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas me podrian ayudar porfavor sucedio cuando queria instalar los paquetes con apt get install
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a saber las contraseñas de los otros wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan estaba actualizando kali en virtual box y se quedo en esa parte tiene horas asi
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+pago buen dinero para quien me quiera ayudar con una red social cualquier interesado mandame mensaje
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien podria ayudarme para guardar mis diccionarios generados en crunch en un disco duro externo
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar estaba intentando ejecutar un exploit pero el msfconsole se quedo en starting the payload handler ya lleva una hora
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a crear un payload en un enlace de alguna pag web
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo kali linux y ubuntu en mi lap acabo de hacer un usb booteable con wind10 y me aparece esto non system disk or disk error replace and strike any key when ready alguna ayuda porfa
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola tengo una duda instale kali pero no me detecta el audio a menos q conecte audifonos alguien me podria ayudar
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches queria saber si alguien me puede ayudar con un problema que tengo en kali ayer instale el sistema y desde que lo instale busque el driver de mi tarjeta de red pero he hecho de todo y no se activa
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes por ahi alguno puede ayudarme he instalado fluxion en kali la ultima version me da error al terminar la instalacion con estos 2 paquetes firware b43 installer firware b43legacy installer aparentemente instala pero en el proceso de borrado postinst da muchos errores porque no encuentran varios ficheros en el proceso del rm he buscado en internet y recomendaba reinstalar de forma forzosa apt get install f y luego con apt get remove cada paquete finalmente deje con una nueva instalacion por paquetes en forma separada mismo error pero no estoy seguro que funcione podria causar algun mal funcionamiento de otra herramienta o so
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches alguien podria ayudarme a reparar los repositorios de ubuntu studio
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda a hakear un facebook mio lo tengo desde ase 5 años y lo quiero cerrar ya intente con kali linux pero no e podido o alguna recomendacion que me den por favor gracias
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+jajajaja es que tenia un erorr aller y me estaban ayudando ya q tenia dual boot en windows tenia el kali linix y este de win
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan ya he instalado node js y electron quick start y aun asi no inicia ahmyth android rat
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me ayuda a descifrar una red wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me podria ayudar a montar mi lcd en un raspberry que tiene kali linux pero no se como meter los driver para que se vea
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos instale linset en ubuntu y no me detecta la red wireless alguien me puede ayudar
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme a insertar un backdoor de android en un pdf
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me podrian ayudar no se por que no me deja instalar scrcpy
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me pueden ayudar por que ese error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a instalar kali linux en particion de disco
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a activar el wi fi en kali 2020 1
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos podria ayudarme ppr favor quiero agregar en kali linux virtualizado con virtual box el adaptor usb awus036nh chipset rt3070 ya he probado como live e instalado en el disco en otra particion y nada
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda con un problema en kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien puede ayudarme con mi kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+erick karman bros alguien me puede ayudar a instalar tor en wifislax porfavor me sale eso
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria a como instalar python pip
+['installation', 'programming_language']
+{'main': 'programming_language', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas intento infectar apk para android y al recopilar las apk me sale este error y no me lo crea alguna ayuda
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a usar kali linux nethunter
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+necesito ayuda con aa instalacion de ubuntu
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar llevo varios dias queriendo actualizar mi kali linux y no he podido
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a como instalar termux
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien que este algo avanzado en kali me podria ayudar en una duda que tengo
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola que pena molestarlos hoy vengo con una inquietud resulta que tengo mi kali virtualizado pero cuando quiero hacer practicas no me sale la wlan0 eh buscado mucho en youtube pero no encuentro solucion si alguno me pudiese ayudar seria maravilloso
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola quien me puede ayudar trato de instalar kaly linux y me sale este error
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a instalar kali linux en particion de disco junto con windows 10
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos buen dia alguien podria ayudarme a clonar un disco duro el caso es q compre un ssd y quiero cambiar al nuevo disco la info que tengo xq en realidad le he invertido bastante tiempo a mi kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tranqui yo si q tuve un gran problema con el wifi y no sabia solucionarlo y ami tmbn me ayudaron q menos ya q se q se pasan putas
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar como activar el toushpab en kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+la primera vez me pidio instalar adb lo hice y ahora me dice error no devices emulators found list of devices attached quien me podria ayudar v
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches disculpar soy nuevo en esto he seguido los pasos para instalar con virtualbox kalilinux peo cuando ya esta too terminado me dice error sistema tiene que de habilitar probe con la version 32 y 64 porfavor alguien puede ayudarme muchas gracias
+['installation', 'beginner']
+{'main': 'installation', 'aditional': {'beginner'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con la instalacion de qark
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola compañeros llevo todo el dia intentando instalar la virtualbox portable y debian pero me sale este mensaje alguien me puede ayudar por favor ya no se que mas hacer
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria con un problema en windows
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar con el problema en ruby
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos tengo algunas dudas al crear un payload si alguien pudiera ayudarme plis
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+otra pregunta quien me podria ayudarme explicandome con manzanas y peras porque llevo 2 meses sin internet nos robaron el cable de telefonia quiero saber si puedo descifrar una clave wifi para volverme a conectar desde una herramienta desde kali por favor
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas alguien que me pueda ayudar con un problema de kali linux por favor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola me pueden ayudar con linux mint quiero instalarle todas las herramientas que trae kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+como puedo desencriptar eso alguien me puede ayudar es un php
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos necesito ayuda con ese error lo estoy haciendo desde termux en android
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con una duda sobre hackear wifi es solo una pregunta que hace 6 meses no tengo a quien hacer la pregunta no encuentro nada en internet
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan a instalar tor
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+oigan por ejemplo estuve checando y necesito de su ayuda dicen que para poder hackear redes wifi necesitas o bueno yo vi el programa de wifislax pero que necesitas una red diferente que no vale la interna que se necesita una externa alguien me puede explicar donde la puedo conseguir y como funciona
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola necesito que me ayuden por favor he tratado de instalar kali linux en una raspberry pi 4 de 8 gigas y no me han funcionado ayuda por favor
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a entrar a una red con solo una direccion ip
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda o me indica el error mi sistema es de 64 bits
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a solucionar este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+otra cosa me ayudan a poner mi tarjeta wifi en modo monitor
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches me ayudan por favor quiero eliminar kali linux de mi pc e instalar ubuntu pero desde cero en realidad primero eliminar kali linux y dejar la pc en blanco luego instalar ubunto
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan tengo un problema con mi kali en la pantalla de login inicio sesion y arranca pero regresa de nuevo a la pantalla de login y no inicia
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenos dias gracias por la invitacion a su grupo me pueden ayudar con este error que me salio al instalar kali linux 2020 04 eh buscado informacion al respecto y no veo antecedentes de este caso muchas gracias
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes amigos no se quien tenga conocimiento sobre un preblema que se me presenta a la hora de instalar kali linux en una maquina virtual y no reconoce mi tarjeta wireles puede alguien ayudarme
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme con la instalacion de malo tengo problemas
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda proporcionandome los comandos para hackear wifi con linux voy a salir y tengo que usar wifi para terminar mi tarea y tratare de hackear el del vecino
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches a todos desde españa imagino y espero q me puedan ayudar a iniciarme en este mundillo mi pregunta creo que es muy sencilla como puedo instalar en un usb kali linux pudiendo asi conectarlo y desconectarlo de cualquier ordenador donde lo ponga pero guardando los archivos creados dentro de esta memoria usb creo recordar que antes se llamaba persistence mode gracias
+['installation', 'installable', 'beginner', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'beginner', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas tardes a todos alguien me puede ayudar a hacer spyware fuera de la red se hacer el payload pero no la ip publica
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar en poder instalar correctamente windows 7 en mi vm
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+y si alguien podria ayudarme entrar una wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola soy nuevo y necesito ayuda
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gran familia de hackers alguien me pudiera ayudar en como poner la letras en colores en kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buen dia alguien me podra ayudar quiero capturar el trafico q pasa por mi wifi alguno lo ha hecho aca
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes alguna me podria ayudar con paginas para probar vulnerabilidades de sitios web a traves de sql inyection
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+porque quiero aprender kali hermano por eso pido ayuda
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+soy nuevo alguien sabe porque no me reconoce los comandos ni el clear me funciona alguna ayuda
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bueno una pregunta suelta si alguien me puede ayudar quiero instalar el gravity designer en kali ya intente con la imagen y dandole ejecutar como programa pero no ejecuta pese a que ya aparece en aplicaciones
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas gente alguien me puede ayudar con un error que me sale al instalar kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas gente me pueden ayudar a instalar kali en virtualbox
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+ojala puedan ayudarme como sistema de trabajo normal tengo fedora
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a usar crunch de manera de que no se repitan las letras supongamos no empiece a testear aaaaaaaa osea que no repita el mismo caracter varias veces asi seria mas rapido el proceso de auditar una red
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar con un problema que tengo en los repositorios de kali linux 2019 3
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola chicos intento instalar parrot os junto a windows 10 pero me sale esta error me pueden ayudar plis
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria en lo de crear un wifi falso
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me podrias ayudar como lo otro es que lo tengo en una usb osea que no quedara guardado cuando pague
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bro me ayudas a hackear una wifi me urge
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos con que programa puedo bootear kali 2020 2 persistente pues ya trate rufus la ultima version creo la 11 y pues no me aparecen la opcion persistente para iniciar desde ahi en la opcion mrb ahi no me aparece la opcion persistente me da opciones como si la quisiera instalar en un disco duro se supone que ahi tendria que aparecer la opcion del persistentencia parado iniciar el kaki linux asi que trate con la opcion ntf pero ahi menos tira un chingadal de pociones que es para quitar wefi cosas asi que traen ya las laptos ya mas avanzada pues yo todavia no llego a esos deseos aun porque eso pido decir su ayuda por favor
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos sigo con ese problema de mi wifi nose si me podrian ayudar ya anoche termine asustandome
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos me ayudan a instalar kali en macbook
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien que sepa solucionar perfil dañado de windows 10 y me pueda ayudar
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar kali linux 2020 no me reconoce el monitor solo la mini pc quiero ver la pantalla en mi tele
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar a solucionar un tema de repositorios kali 2020
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola grupo soy algo nuevo en kali y en termux alguien me podria ayudar por favor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar acabe de instalar kali linux y me jerena un error
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me podria ayudar ayer intente instalar kali en termux usando vncviewer y todo funciono bien pero hoy intente entrar pero el termux no me tira direccion para ingresar en vncviewer alguien sabe porque xd
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches gente alguien me ayuda a instalar kali en una intel celeron me da error en el paso instalacion de programas
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme con un problemilla que tengo con kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria a instalar quidam
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me pueden ayudar con el adaptador de red wifi para kali en virtual vox
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches compañeros se que no es nada que ver con kali linux pero de casualidad hay alguien que me pueda ayudar en un programa de c
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con este error pls
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buen dia compañeros me pueden ayudar con esto ya escribi los codigos que encontre en internet y me sigue dando error quien me puede ayudar
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes a todos soy nuevo queria saber si podrian ayudarme a comenzar en la parte de la ciberseguridad tengo instalado kali linux en una maquina virtual virtualbox_
+['installation', 'installable', 'beginner']
+{'main': 'installable', 'aditional': {'installation', 'beginner'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches chicos alguien que pueda ayudarme o derivarme con un video link o algun diccionario efectivo para kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+que tal soy nuevo en esto me pueden ayudar con este error
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes me podrian ayudar porque no me agarra el wifi yo uso el celular como wifi mediante usb hace 2 dias me agarraba bien pero ya no me ayudan plis
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda con este error porfa
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudas a instalar devploit
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a lograr hackear facebook con kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola me podrian ayudar porque no puedo subir mas arriba osea no puedo ver que es lo que ay mas arriba bueno un ejemplo escirbo el comando para ver todas las apps instaladas en el telefono de la victima pero solo puedo ver algunas ya que no puedo subir mas arriba me pueden ayudar ñc
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches alguien que me pueda ayudar con un problema al instalar kali en una maquina virtual
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me pude ayudar a enseñarme desde cero con unos tutoriales videos una paguina un libro quiero entrar en este mundo me interesa ayudenme po favo
+['beginner', 'keyword']
+{'main': [], 'aditional': ['beginner', 'keyword']}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda mi lap por error elimine las particiones tratando de instalar abuntu y ahora al prender mi lap solo sale un guion parpadeando y la pantaya negra y asi se queda
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos buen dia espero me puedan ayudar selos agradeceria mucho mi problema e instalado kali linux en el disco y todo iva perfecto solo me tiro error en el grub de arranque y me salte ese paso y segui con la instalacion pero ahora cusndi enciendo mi pc me tira directamente windows 10 nome aparece kali oara escoger espero me puedan ayudar amigos
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches alguien me ayuda con la instalacion de kali no logro iniciar el entorno grafico
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo una laptop hp stream 14 y tengo instalado kali linux en vmware pero no puedo usar el wifi solo aparece como ethernet alguien podria ayudarme a configurarlo
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda tengo una consulta tengo un proyecto de vulnerar una maquina con windows 8 o 10 luego de escanear las vulnerabilidades con openvas como puedo injectar un exploi en esa vulnerabilidad me ayudaria por favor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola muy buenas necesito ayuda para instalar un archivo py
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien podria ayudarme instale kali linux y cuando inicia es en modo texto y despues de unos segundos se apaga sola la laptop
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me puede ayudar por fa ya he querido hacer de todo y no queda tengo kali persistence en usb
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas alguno me puede ayudar con un dilema en kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a instalar kali linux en particion de disco ya intente muchas veces pero siempre me inicia en windows otra vez
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas tardes necesito ayuda para entrar al wasap de mi novia quien me ayuda tengo kali 2020
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas alguiene me puede ayudar quiero bootear kali cual programa seria mejor o bueno para ello
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar a instalar ngrok en termux android xfavor
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola chicos disculpen alguno podria ayudarme con una duda sobre la configuracion de kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar por que no busca redes en kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola me podrian ayudar cuando voy a install kali linux en mi lapto me presenta eso
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+necesito su ayuda al descargar el rar de la iso de kali linux para vmware descomprimi el rar pero no hay ninguna imagen iso
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me puede ayudar con el error using configured payload porfa
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bandita me ayudan a instalar el kali linux en usb
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos soy muy nuevo en kali lo instale y pues quiero comenzar aprendiendo a hackear mi propia red wifi lo tengo instalado el kali desde el virtual box y con los plugins para que lea el puerto usb y tener conectado el dispositivo para el hackeo pero nunca lo reconoce el dispositivo alguna ayuda por favor llevo bastante tiempo tratando de hacerlo y ese es mi limite
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches quien me puede ayudar a solucionar esto he instalado blueman y bluez pero no inicia la aplicacion el equipo cuenta con bluetooth y todo pero no puedo emparejar nada uso kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buena tarde amigos quien me puede ayudar a dar una asesoria para penetrar un pc en red que no he podido ya que no encuentro vulnerabilidad
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda al error de wifislax
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola todos me podrian ayudar porfavor con un curso basico para manejar kali linux gracias
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bros es tonto pero pueden ayudarme a que aparezca la barra de estado y el menu superior porfavor en kali por curiosidad los oculte y ahora no se hacerlos aparecer
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola grupo con una molestia alguien me podria ayudar por que me apareceria con este error al instalar una maquina virtual en virtual box una de kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buena tarde instale linux yo solo quiero aprender a hackear computadoras celulares face y whats la verdad no tengo mucho conocimiento al respecto espero y me puedan ayudar
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien que me pueda ayudar acerca de como instalar firefox en kali linix es que le doy apt update y apt get install firefox y me dice firefox has no candidate installation
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+necesito ayuda para la instalacion de los drivers de li wifi que me recomiendan para hacerlo
+['installation', 'keyword']
+{'main': 'keyword', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola que tal soy nuevo en todo esto alguien me podria ayudar a crear pishing por termux android
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo esa version de tarjeta de red y ese kernel no logro instalar la tarjeta de red alguien que me pueda ayudar
+['installation', 'keyword']
+{'main': 'keyword', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos me pueden ayudar un amigo tiene wifi del vecino en el celular de el pero no se como ver la contraseña ya probe de todo probe 1 buscando una carpeta donde se almacenan pero nome funciono pro que eso es para root 2 entrando al route desde chrom pero nome funciono porque cambiaron todos los datos para entrar ahi 3 con el codigo qr del wifi pero nome funciono porque el celular de el es modelos menos 4 con adb pero nome funciono porque se necesita root que puedo hacer amigo me ayudan
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tiene algun pdf de ayuda o algo
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien podria ayudarme con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar al querer instalar el kali linux me sale este error y quiero saber por que
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a solucionar este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo instalado kali linux intento instalar windows 10 y me sale esto alguna ayuda
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria con un problema en windows
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudad con este error de pip2
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gracias por permitirme unir a este grupo soy nuevo en el mundo de kali linux y como todo nuevo siempre hay problemas instale la version mas reciente de kali inicia normalmente todo normal estoy conectado inalambricamente al wifi pero despues de un rato se pierde la conexion y no detecta ninguna red al alrededor ya desinstale e instale el firmware de la tarjeta y nada me podrian ayudar por favor gracias
+['installation', 'installable', 'beginner', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword', 'beginner'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola me podrian ayudar cuando voy a install kali linux en mi lapto me presenta eso
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me pueden ayudar por que ese error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches queria saber si alguien me puede ayudar con un problema que tengo en kali ayer instale el sistema y desde que lo instale busque el driver de mi tarjeta de red pero he hecho de todo y no se activa
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda proporcionandome los comandos para hackear wifi con linux voy a salir y tengo que usar wifi para terminar mi tarea y tratare de hackear el del vecino
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos me pueden ayudar un amigo tiene wifi del vecino en el celular de el pero no se como ver la contraseña ya probe de todo probe 1 buscando una carpeta donde se almacenan pero nome funciono pro que eso es para root 2 entrando al route desde chrom pero nome funciono porque cambiaron todos los datos para entrar ahi 3 con el codigo qr del wifi pero nome funciono porque el celular de el es modelos menos 4 con adb pero nome funciono porque se necesita root que puedo hacer amigo me ayudan
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda con un problema en kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien sabe como correguir ese error ya inventige y intente cambiarlo pero no puedo alguien me ayudaria
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gente espero que esten bien espero me puedan ayudar con este problema que tengo en kali pues sucede que lo voy instalando en 2 computadoras distintas y en las 2 no me deja iniciar sesion me dice contraseña incorrecta y la contraseña esta escrita correctamente
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches alguien que me pueda ayudar con un problema al instalar kali en una maquina virtual
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo instalado kali 2019 2 quiero actualizar y no se puede osea hacer apt get update como es recien instalado talvez falta agregar los repositorios a source list pero cual es el repositorio correcto para 2019 2 4 19 0 kali4 amd64 porfa si pueden ayudar
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan estaba actualizando kali en virtual box y se quedo en esa parte tiene horas asi
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a usar crunch de manera de que no se repitan las letras supongamos no empiece a testear aaaaaaaa osea que no repita el mismo caracter varias veces asi seria mas rapido el proceso de auditar una red
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a configurar kali linux virtual box ya que no me salen las redes wifi no lee la tarjeta de red inalambrica
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar estaba intentando ejecutar un exploit pero el msfconsole se quedo en starting the payload handler ya lleva una hora
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien que me pueda ayudar acerca de como instalar firefox en kali linix es que le doy apt update y apt get install firefox y me dice firefox has no candidate installation
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+porque quiero aprender kali hermano por eso pido ayuda
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan a instalar tor
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda instale la maquina virtual y ahora no me deja conectar al wifi
+['installation', 'keyword']
+{'main': 'keyword', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola necesito que me ayuden por favor he tratado de instalar kali linux en una raspberry pi 4 de 8 gigas y no me han funcionado ayuda por favor
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+la primera vez me pidio instalar adb lo hice y ahora me dice error no devices emulators found list of devices attached quien me podria ayudar v
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar por que no busca redes en kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me pueden ayudar con el adaptador de red wifi para kali en virtual vox
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar con el problema en ruby
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas me podrian ayudar porfavor sucedio cuando queria instalar los paquetes con apt get install
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudas a bootear la usb
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar acabe de instalar kali linux y me jerena un error
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+ojala puedan ayudarme como sistema de trabajo normal tengo fedora
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a instalar kali linux en particion de disco junto con windows 10
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+disculpen alguien me puede ayudar a areglar este error por linux
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien que sepa solucionar perfil dañado de windows 10 y me pueda ayudar
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buena tarde instale linux yo solo quiero aprender a hackear computadoras celulares face y whats la verdad no tengo mucho conocimiento al respecto espero y me puedan ayudar
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas tardes necesito ayuda para entrar al wasap de mi novia quien me ayuda tengo kali 2020
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buen dia compañeros me pueden ayudar con esto ya escribi los codigos que encontre en internet y me sigue dando error quien me puede ayudar
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+otra pregunta quien me podria ayudarme explicandome con manzanas y peras porque llevo 2 meses sin internet nos robaron el cable de telefonia quiero saber si puedo descifrar una clave wifi para volverme a conectar desde una herramienta desde kali por favor
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar a instalar ngrok en termux android xfavor
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar kali linux 2020 no me reconoce el monitor solo la mini pc quiero ver la pantalla en mi tele
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos con que programa puedo bootear kali 2020 2 persistente pues ya trate rufus la ultima version creo la 11 y pues no me aparecen la opcion persistente para iniciar desde ahi en la opcion mrb ahi no me aparece la opcion persistente me da opciones como si la quisiera instalar en un disco duro se supone que ahi tendria que aparecer la opcion del persistentencia parado iniciar el kaki linux asi que trate con la opcion ntf pero ahi menos tira un chingadal de pociones que es para quitar wefi cosas asi que traen ya las laptos ya mas avanzada pues yo todavia no llego a esos deseos aun porque eso pido decir su ayuda por favor
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo una laptop hp stream 14 y tengo instalado kali linux en vmware pero no puedo usar el wifi solo aparece como ethernet alguien podria ayudarme a configurarlo
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola muy buenas necesito ayuda para instalar un archivo py
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con una duda sobre hackear wifi es solo una pregunta que hace 6 meses no tengo a quien hacer la pregunta no encuentro nada en internet
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches alguien podria ayudarme a reparar los repositorios de ubuntu studio
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches me ayudan por favor quiero eliminar kali linux de mi pc e instalar ubuntu pero desde cero en realidad primero eliminar kali linux y dejar la pc en blanco luego instalar ubunto
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gente necesito ayuda estoy tratando de instalar windows como sistema secundario mi pc no me deja instalarlo porque el disco esta en formato gpt asi que busque en google y segun dice es necesario que haga una usb boot en formato gpt y no en el clasico mbr pero en el tutorial usan la herramienta rufus para windows y no la puedo usar alguien sabe como hacer una usb boot en gpt desde linux por favor gracias
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas alguno me puede ayudar con un dilema en kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria en lo de crear un wifi falso
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme con un problemilla que tengo con kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con la instalacion de qark
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con este error pls
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos me ayudan a instalar kali en macbook
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+que tal soy nuevo en esto me pueden ayudar con este error
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola chicos disculpen alguno podria ayudarme con una duda sobre la configuracion de kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a como instalar termux
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+oigan por ejemplo estuve checando y necesito de su ayuda dicen que para poder hackear redes wifi necesitas o bueno yo vi el programa de wifislax pero que necesitas una red diferente que no vale la interna que se necesita una externa alguien me puede explicar donde la puedo conseguir y como funciona
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos necesito ayuda con ese error lo estoy haciendo desde termux en android
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo un tio en el ejercito y me pidio de ayuda para obtener un listado nominal alguien tiene idea como puedo tener control de unas computadorasn para sacar la informacion o que herramientas de kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan ya he instalado node js y electron quick start y aun asi no inicia ahmyth android rat
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola soy nuevo en esto espero y me puedan ayudar tengo un problema al quererme conectar a la red wi fi con una antena tplink en mi caso si la reconoce hasta me aparecen las redes wifi disponibles pero al ingresar la contraseña solo se queda cargando y al final me marca un error saben que pudiera hacer
+['beginner', 'keyword']
+{'main': [], 'aditional': ['beginner', 'keyword']}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien podria ayudarme instale kali linux y cuando inicia es en modo texto y despues de unos segundos se apaga sola la laptop
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a instalar kali linux en particion de disco
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes me podrian ayudar porque no me agarra el wifi yo uso el celular como wifi mediante usb hace 2 dias me agarraba bien pero ya no me ayudan plis
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda con este error porfa
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a saber las contraseñas de los otros wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a usar kali linux nethunter
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda tengo una consulta tengo un proyecto de vulnerar una maquina con windows 8 o 10 luego de escanear las vulnerabilidades con openvas como puedo injectar un exploi en esa vulnerabilidad me ayudaria por favor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo un problema al instalar kali linux le doy enter a cualquier opcion y se reinicia probe con diferentes s o de kali y pasa lo mismo alguien podria ayudarme gracias
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a entrar a una red con solo una direccion ip
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan tengo un problema con mi kali en la pantalla de login inicio sesion y arranca pero regresa de nuevo a la pantalla de login y no inicia
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien podria ayudarme con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola grupo soy algo nuevo en kali y en termux alguien me podria ayudar por favor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+pago buen dinero para quien me quiera ayudar con una red social cualquier interesado mandame mensaje
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me podria ayudar a montar mi lcd en un raspberry que tiene kali linux pero no se como meter los driver para que se vea
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gran familia de hackers alguien me pudiera ayudar en como poner la letras en colores en kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bros es tonto pero pueden ayudarme a que aparezca la barra de estado y el menu superior porfavor en kali por curiosidad los oculte y ahora no se hacerlos aparecer
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me podria ayudar ayer intente instalar kali en termux usando vncviewer y todo funciono bien pero hoy intente entrar pero el termux no me tira direccion para ingresar en vncviewer alguien sabe porque xd
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas alguien que me pueda ayudar con un problema de kali linux por favor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda a hakear un facebook mio lo tengo desde ase 5 años y lo quiero cerrar ya intente con kali linux pero no e podido o alguna recomendacion que me den por favor gracias
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+por eso si son tan amables me podrian ayudar a bootear la usb
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+erick karman bros alguien me puede ayudar a instalar tor en wifislax porfavor me sale eso
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme con la instalacion de malo tengo problemas
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien que este algo avanzado en kali me podria ayudar en una duda que tengo
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bueno una pregunta suelta si alguien me puede ayudar quiero instalar el gravity designer en kali ya intente con la imagen y dandole ejecutar como programa pero no ejecuta pese a que ya aparece en aplicaciones
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda mi lap por error elimine las particiones tratando de instalar abuntu y ahora al prender mi lap solo sale un guion parpadeando y la pantaya negra y asi se queda
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+envia foto y alguno te ayudara en el grub debes presionar e de editar y buscar una linea q nose si hacia referencia a pass o a shell no recuerdo ahora mismo pero se modificaba eso y ya al reiniciar te iniciava con una shell y tu pues ponias passwd la q sea y ya reinicias y listo
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar cuando uso kali linux no me cambia la ip ayuda porfavor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos sigo con ese problema de mi wifi nose si me podrian ayudar ya anoche termine asustandome
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan a hackear los dispositivos conectados al mismo wifi que yo me urge y solo cuento con termux
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola grupo con una molestia alguien me podria ayudar por que me apareceria con este error al instalar una maquina virtual en virtual box una de kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar al querer instalar el kali linux me sale este error y quiero saber por que
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me puede ayudar con el error using configured payload porfa
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola que tal soy nuevo en todo esto alguien me podria ayudar a crear pishing por termux android
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos un salido oigan necesito ayuda con la instalacion de openvas en kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos buen dia espero me puedan ayudar selos agradeceria mucho mi problema e instalado kali linux en el disco y todo iva perfecto solo me tiro error en el grub de arranque y me salte ese paso y segui con la instalacion pero ahora cusndi enciendo mi pc me tira directamente windows 10 nome aparece kali oara escoger espero me puedan ayudar amigos
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria a instalar quidam
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buen dia alguien me podra ayudar quiero capturar el trafico q pasa por mi wifi alguno lo ha hecho aca
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas gente me pueden ayudar a instalar kali en virtualbox
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me podrias ayudar como lo otro es que lo tengo en una usb osea que no quedara guardado cuando pague
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+como puedo desencriptar eso alguien me puede ayudar es un php
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme a insertar un backdoor de android en un pdf
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+necesito su ayuda al descargar el rar de la iso de kali linux para vmware descomprimi el rar pero no hay ninguna imagen iso
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me ayuda a descifrar una red wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches alguien me ayuda con la instalacion de kali no logro iniciar el entorno grafico
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a instalar kali linux en particion de disco ya intente muchas veces pero siempre me inicia en windows otra vez
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me puede ayudar por fa ya he querido hacer de todo y no queda tengo kali persistence en usb
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola tengo una duda instale kali pero no me detecta el audio a menos q conecte audifonos alguien me podria ayudar
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes amigos no se quien tenga conocimiento sobre un preblema que se me presenta a la hora de instalar kali linux en una maquina virtual y no reconoce mi tarjeta wireles puede alguien ayudarme
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenos dias gracias por la invitacion a su grupo me pueden ayudar con este error que me salio al instalar kali linux 2020 04 eh buscado informacion al respecto y no veo antecedentes de este caso muchas gracias
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenos dias compañeros me podrian ayudar con parte de la configuracion de kali linux hice una instalacion en una particion en mi portatil ya esta instalado pero tengo problemas con el wi fi con el adaptador que trae por defecto no funciona compre un adaptador tl wn823n y este si muestra las redes pero cuando entro a mi red carga y no conecta intente con ethernet pero no navega sale como si no hubiera internet podrian ayudarme gracias
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes alguna me podria ayudar con paginas para probar vulnerabilidades de sitios web a traves de sql inyection
+['programming_language']
+{'main': ['programming_language'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bro me ayudas a hackear una wifi me urge
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quiero hacer un diccionario pero parece que tengo que tener instalado el crunch y en youtube no hay nada sobre como instalarlo alguien podria ayudarme
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+mano alguno a craqueado una red wifi con kali linux que me pueda ayudar please
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola gente soy recontra nuevo en este mundo baje termux y un social sploit q es para conseguir cuentas de twitter pero no lo puedo ejecutar xq no tengo ngrok alguien me podria ayudar o decirme como hacer nesesito las cuentas xq se las vendo a un tercero si tienen otro metodo soy todo oidos
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola que pena molestarlos hoy vengo con una inquietud resulta que tengo mi kali virtualizado pero cuando quiero hacer practicas no me sale la wlan0 eh buscado mucho en youtube pero no encuentro solucion si alguno me pudiese ayudar seria maravilloso
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas intento infectar apk para android y al recopilar las apk me sale este error y no me lo crea alguna ayuda
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches compañeros se que no es nada que ver con kali linux pero de casualidad hay alguien que me pueda ayudar en un programa de c
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar con airgeddon no me abre la pagina cuando me conecto a la red alguien sabe porque pasa o sabe como solucionarlo
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola me pueden ayudar con linux mint quiero instalarle todas las herramientas que trae kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes por ahi alguno puede ayudarme he instalado fluxion en kali la ultima version me da error al terminar la instalacion con estos 2 paquetes firware b43 installer firware b43legacy installer aparentemente instala pero en el proceso de borrado postinst da muchos errores porque no encuentran varios ficheros en el proceso del rm he buscado en internet y recomendaba reinstalar de forma forzosa apt get install f y luego con apt get remove cada paquete finalmente deje con una nueva instalacion por paquetes en forma separada mismo error pero no estoy seguro que funcione podria causar algun mal funcionamiento de otra herramienta o so
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches a todos desde españa imagino y espero q me puedan ayudar a iniciarme en este mundillo mi pregunta creo que es muy sencilla como puedo instalar en un usb kali linux pudiendo asi conectarlo y desconectarlo de cualquier ordenador donde lo ponga pero guardando los archivos creados dentro de esta memoria usb creo recordar que antes se llamaba persistence mode gracias
+['installation', 'installable', 'beginner', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword', 'beginner'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar en poder instalar correctamente windows 7 en mi vm
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda por favor me aparece ese error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo kali linux y ubuntu en mi lap acabo de hacer un usb booteable con wind10 y me aparece esto non system disk or disk error replace and strike any key when ready alguna ayuda porfa
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos soy muy nuevo en kali lo instale y pues quiero comenzar aprendiendo a hackear mi propia red wifi lo tengo instalado el kali desde el virtual box y con los plugins para que lea el puerto usb y tener conectado el dispositivo para el hackeo pero nunca lo reconoce el dispositivo alguna ayuda por favor llevo bastante tiempo tratando de hacerlo y ese es mi limite
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar llevo varios dias queriendo actualizar mi kali linux y no he podido
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas tardes a todos alguien me puede ayudar a hacer spyware fuera de la red se hacer el payload pero no la ip publica
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buena tarde amigos quien me puede ayudar a dar una asesoria para penetrar un pc en red que no he podido ya que no encuentro vulnerabilidad
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola quien me puede ayudar trato de instalar kaly linux y me sale este error
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me pude ayudar a enseñarme desde cero con unos tutoriales videos una paguina un libro quiero entrar en este mundo me interesa ayudenme po favo
+['beginner', 'keyword']
+{'main': [], 'aditional': ['beginner', 'keyword']}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me ayuda a hackear wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda al error de wifislax
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+soy nuevo alguien sabe porque no me reconoce los comandos ni el clear me funciona alguna ayuda
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a solucionar este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+bandita me ayudan a instalar el kali linux en usb
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a solucionar este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien puede ayudarme a configurar mi wifi solo quiero tener dispositivos conectados con su direccion mac
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tengo esa version de tarjeta de red y ese kernel no logro instalar la tarjeta de red alguien que me pueda ayudar
+['installation', 'keyword']
+{'main': 'keyword', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a lograr hackear facebook con kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+quien me podria ayudar con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+y si alguien podria ayudarme entrar una wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me podrian ayudar no se por que no me deja instalar scrcpy
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayuda con la instalacion de kali linux
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos buen dia alguien podria ayudarme a clonar un disco duro el caso es q compre un ssd y quiero cambiar al nuevo disco la info que tengo xq en realidad le he invertido bastante tiempo a mi kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches quien me puede ayudar a solucionar esto he instalado blueman y bluez pero no inicia la aplicacion el equipo cuenta con bluetooth y todo pero no puedo emparejar nada uso kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudan para acceder totalmente al movil conectado en mi wifi
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos instale linset en ubuntu y no me detecta la red wireless alguien me puede ayudar
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tiene algun pdf de ayuda o algo
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+tranqui yo si q tuve un gran problema con el wifi y no sabia solucionarlo y ami tmbn me ayudaron q menos ya q se q se pasan putas
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches chicos alguien que pueda ayudarme o derivarme con un video link o algun diccionario efectivo para kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola chicos intento instalar parrot os junto a windows 10 pero me sale esta error me pueden ayudar plis
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola amigos tengo algunas dudas al crear un payload si alguien pudiera ayudarme plis
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas tardes a todos soy nuevo queria saber si podrian ayudarme a comenzar en la parte de la ciberseguridad tengo instalado kali linux en una maquina virtual virtualbox_
+['installation', 'installable', 'beginner']
+{'main': 'installable', 'aditional': {'installation', 'beginner'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas gente alguien me puede ayudar con un error que me sale al instalar kali
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenas noches gente alguien me ayuda a instalar kali en una intel celeron me da error en el paso instalacion de programas
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar a configurar mi maquina virtual para conectar una antena wifi melon n4000
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar como activar el toushpab en kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me puede ayudar con este error porfas
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayudaria a como instalar python pip
+['installation', 'programming_language']
+{'main': 'programming_language', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola bros alguien me puede ayudar es que yo si soy novato lo que pasa es que tengo windows y ubuntu en mi lap y quiero eliminar ubuntu para instalar parrot pero yo nunca he tocado las particiones cuando instale ubuntu le pedi a un amigo que lo hiciera y ahora me doy cuenta que tengo 7 particiones y siento que son muchas pero bueno lo que quiero saber es que particiones debo eliminar sin cagar nada de windows recien reinicie windows y en ubuntu no tengo nada asi que no tengo ningun documento o archivo que perder pero no quiero eliminar algo importante por error
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+amigos podria ayudarme ppr favor quiero agregar en kali linux virtualizado con virtual box el adaptor usb awus036nh chipset rt3070 ya he probado como live e instalado en el disco en otra particion y nada
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola todos me podrian ayudar porfavor con un curso basico para manejar kali linux gracias
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me puede ayudar a crear un payload en un enlace de alguna pag web
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+jajajaja es que tenia un erorr aller y me estaban ayudando ya q tenia dual boot en windows tenia el kali linix y este de win
+['installable', 'keyword']
+{'main': 'installable', 'aditional': {'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda o me indica el error mi sistema es de 64 bits
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien puede ayudarme con mi kali
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+otra cosa me ayudan a poner mi tarjeta wifi en modo monitor
+['keyword']
+{'main': ['keyword'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me pueden ayudar en este paso es de la herramienta set toolkit
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola tengo un problema con kali linux quien me podria ayudar
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola me podrian ayudar porque no puedo subir mas arriba osea no puedo ver que es lo que ay mas arriba bueno un ejemplo escirbo el comando para ver todas las apps instaladas en el telefono de la victima pero solo puedo ver algunas ya que no puedo subir mas arriba me pueden ayudar ñc
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda con este error
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+me ayudas a instalar devploit
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola compañeros llevo todo el dia intentando instalar la virtualbox portable y debian pero me sale este mensaje alguien me puede ayudar por favor ya no se que mas hacer
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me ayuda a activar el wi fi en kali 2020 1
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me ayuda a poner kali linux 2020 2 en modo monitor
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas alguiene me puede ayudar quiero bootear kali cual programa seria mejor o bueno para ello
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar para que me salga el escritorio de kali linux
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+acabando de instalar kali linux pero solo me aparece red cableada como activo el wifi alguien me ayuda porfa
+['installation', 'installable', 'keyword']
+{'main': 'installable', 'aditional': {'installation', 'keyword'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas espero que me puedan ayudar quiero instalar una distribucion de linux en mi pc antigua de pocas caracteristicas
+['installation']
+{'main': ['installation'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien podria ayudarme para guardar mis diccionarios generados en crunch en un disco duro externo
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola estoy utilizando veracrypt en virtualbox con la ultima distribucion de kali linux y al desmontar el fichero me aparece esto alguien me puede a ayudar a arreglar este problema
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+necesito ayuda con aa instalacion de ubuntu
+['installation', 'installable']
+{'main': 'installable', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+buenas noches disculpar soy nuevo en esto he seguido los pasos para instalar con virtualbox kalilinux peo cuando ya esta too terminado me dice error sistema tiene que de habilitar probe con la version 32 y 64 porfavor alguien puede ayudarme muchas gracias
+['installation', 'beginner']
+{'main': 'installation', 'aditional': {'beginner'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+alguien me podria ayudar con un problema que tengo en los repositorios de kali linux 2019 3
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola soy nuevo y necesito ayuda
+['beginner']
+{'main': ['beginner'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola buenos dias alguien me ayuda con este error porfa
+['error']
+{'main': ['error'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+hola alguien me puede ayudar a solucionar un tema de repositorios kali 2020
+['installable']
+{'main': ['installable'], 'aditional': []}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+necesito ayuda para la instalacion de los drivers de li wifi que me recomiendan para hacerlo
+['installation', 'keyword']
+{'main': 'keyword', 'aditional': {'installation'}}
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
