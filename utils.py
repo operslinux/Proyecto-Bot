@@ -1,6 +1,7 @@
 import json
+import re
 
-"""
+"""Útiles
 Módulo con funciones que se implementan
 en distintos scripts.
 """
@@ -27,7 +28,16 @@ class KaliTools:
         # Diccionario de categorías, sólo las categorias con sus respectivas herramientas.
         self.category_tools = dict([ (category, list(self.database[category].keys())) for category in self.database ])
 
-# Función para remover los acentos
-def remove_accents(text):
-    for key, value in {"á":"a", "é":"e", "í":"i", "ó":"o", "ú":"u"}.items(): text=text.replace(key, value)
+
+# Función para limpiar el mensaje, con eso nos referimos a remover
+# los acentos, los signos de puntuación y mayúsculas.
+def clean_text(text):
+    for key, value in {"á":"a", "é":"e", "í":"i", "ó":"o", "ú":"u"}.items():
+        text = text.replace(key, value)
+    text = text.lower()
+    matches = re.finditer("\w+", text)
+    text_list = [text[match.start():match.end()] for match in matches]
+    text = ' '.join(text_list)
     return text
+
+

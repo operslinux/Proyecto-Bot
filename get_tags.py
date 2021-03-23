@@ -1,13 +1,7 @@
 import re
-import pickle
 from utils import KaliTools
 
 KaliTools = KaliTools()
-
-with open("help_messages.pick", "rb") as file:
-    data=file.read()
-    file.close()
-messages=pickle.loads(data)
 
 # Lista de software instalable para ser detectado.
 all_installables = []
@@ -17,31 +11,36 @@ all_installables.extend(["ubuntu", "windows", "kali", "fedora", "parrot"])
 
 # Palabras clave para aportar contexto.
 keywords = [
-"boot", "usb", "pdf", "curso", "maquina virtual",
-"payload", "audio", "red", "wifi", "libro", "libros"
+    "boot", "usb", "pdf", "curso", "maquina virtual",
+    "payload", "audio", "red", "wifi", "libro", "libros",
+    "mac", "gpg", "adaptador", "particion", "raspberry",
+    "iso", "quiero aprender", "exploit", "virtual box"
 ]
+
+# Palabras que suelen usar los novatos.
+beginner_keywords = ["mundo", "mundillo", "soy nuevo"]
 
 # Lenguajes de programación incluídos para detectar.
 programming_languages = [
-"python", "c++", "visual basic", "c#",
-"javascript", "java script", "php", "sql", "ruby", "shell",
-"type script", "typescript", "java", "bash"
+    "python", "c++", "visual basic", "c#",
+    "javascript", "java script", "php", "sql", "ruby", "shell",
+    "type script", "typescript", "java", "bash"
 ]
 
-"""
-Esta clase contiene los atributos del etiquetado de los mensajes, que son:
+
+class TagMessage:
+    """Contiene los atributos del etiquetado de los mensajes, que son:
 
     all_tags: lista de todas las etiquetas encontradas, None si no se encontraron.
-
     errors: si el mensaje puede relacionarse con un error.
     installation_tags: si el mensaje puede relacionarse con una instalación.
     installables: si el mensaje puede relacionarse con software instalable, y cuál.
     beginner_tabs: si el mensaje se puede relacionar con un usuario primerizo en busca de recursos.
     keywords: palabras clave para aportar más contexto, y cuáles.
     programming_languages: si el mensaje se puede relacionar con un lenguaje de programación, y cuál.
-"""
 
-class TagMessage:
+    la función "from_tag" está para obtener atributos a partir de las etiquetas definidas en "all_tags"
+    """
     def __init__(self, message):
         # Elimina los caracteres que no son alfanuméricos
         # y genera una versión del mensaje como lista y otra como cadena de texto.
@@ -57,9 +56,9 @@ class TagMessage:
 
     def define_tags(self):
         self.errors = "error" in self.message_list
-        self.installation_tags = self.installation_tags()
+        self.installation_tags = re.search("instal", self.message) is not None
         self.installables = [ software for software in all_installables if software in self.message_list ]
-        self.beginner_tags = self.beginner_tags()
+        self.beginner_tags = any([ True for kwd in beginner_keywords if re.search(kwd, self.message) ])
         self.keywords = [ keyword for keyword in keywords if keyword in self.message_list ]
         self.programming_languages = [ language for language in programming_languages if language in self.message_list ]
 
@@ -76,32 +75,22 @@ class TagMessage:
             self.all_tags = tags
         else:self.all_tags = None
 
-    def installation_tags(self):
-        if re.search("instal", self.message) is not None:
-            return True
-        return False
+    def from_tag(self, tag):
+        tags_dict = {
+                "error":self.errors, "installation":self.installation_tags,
+                "installable":self.installables, "beginner":self.beginner_tags,
+                "keyword":self.keywords, "programming_language":self.programming_languages
+                }
+        return tags_dict[tag]
 
-    def beginner_tags(self):
-        if re.search("mundo", self.message) is not None:
-            return True
-        if re.search("mundillo", self.message) is not None:
-            return True
-        if re.search("soy nuevo", self.message) is not None:
-            return True
-        return False
-"""
-"error"
-"installation"
-"installable"
-"beginner"
-"keyword"
-"programming_language"
-"""
+
 def hierarchy_filter(tags):
-    # Ayudará a definir qué etiqueta es más importante
-    # la tupla contiene las etiquetas a comparar
-    # el valor es la etiqueta que se removerá de la lista de etiquetas
-    # ya que la otra es más relevante.
+    """Filtro jerárquico
+    Ayudará a definir qué etiqueta es más importante
+    la tupla contiene las etiquetas a comparar
+    el valor es la etiqueta que se removerá de la lista de etiquetas
+    ya que la otra es más relevante.
+     """
     dic = {
             ("error", "installation"): "error",
             ("error", "installable"): "error",
@@ -142,7 +131,6 @@ def hierarchy_filter(tags):
             order = {"main":[], "aditional":tags}
     else:
         order = {"main":tags, "aditional":[]}
-
     return tags, order
 
 def define_actions(tagged_message):
@@ -150,14 +138,29 @@ def define_actions(tagged_message):
     # Obtiene una versión filtrada de las etiquetas junto al
     # órden que pueden tener.
     formatted_tags, order = hierarchy_filter(all_tags)
-    print()
-    print(tagged_message.message)
-    print(formatted_tags)
-    print(order)
-    print("+-"*40)
-    print()
 
-for message in messages:
+    if "installation" in formatted_tags:
+        print("yup")
+
+    #print(tagged_message.message)
+    #for tag in formatted_tags:
+    #    print(tag, tagged_message.from_tag(tag))
+    #print("+-"*40)
+    actions = [
+            "link to tagged resources", "beginner introduction", "show all resourses (pfd, course)",
+            "ask for context", "send specific answer(depending on context)", ""
+            ]
+
+"""
+"error": errors (bool)
+"installation": installation_tags (list)
+"installable": installables (list)
+"beginner": beginner_tabs (bool)
+"keyword": keywords (list)
+"programming_language": programming_languages (list)
+"""
+
+def process_message_tags(message):
     # Crea el objeto "mesaje etiquetado" con los atributos relacionados
     # con el etiquetado del mensaje.
     tagged_message = TagMessage(message)
