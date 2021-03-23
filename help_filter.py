@@ -17,9 +17,7 @@ help_keywords = [
 # Primer filtro, para ahorrar recursos, sólo indica si el mensaje pudiera 
 # contener la palabra "ayuda".
 def needs_help(message):
-    if re.search("ayud", message):
-        return True
-    return False
+    return re.search("ayud", message) is not None
 
 def confirm_help(message):
     # Verifica que las palabras clave (patrones) estén a una distancia razonable.
