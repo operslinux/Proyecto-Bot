@@ -10,7 +10,7 @@ all_installables.extend(tools)
 all_installables.extend(["ubuntu", "windows", "kali", "fedora", "parrot"])
 
 # Palabras clave para aportar contexto.
-keywords = [
+general_keywords = [
     "boot", "usb", "pdf", "curso", "maquina virtual",
     "payload", "audio", "red", "wifi", "libro", "libros",
     "mac", "gpg", "adaptador", "particion", "raspberry",
@@ -31,7 +31,7 @@ programming_languages = [
 class TagMessage:
     """Contiene los atributos del etiquetado de los mensajes, que son:
 
-    all_tags: lista de todas las etiquetas encontradas, None si no se encontraron.
+    all_tags: lista de todas las etiquetas encontradas.
     errors: si el mensaje puede relacionarse con un error.
     installation_tags: si el mensaje puede relacionarse con una instalación.
     installables: si el mensaje puede relacionarse con software instalable, y cuál.
@@ -39,49 +39,39 @@ class TagMessage:
     keywords: palabras clave para aportar más contexto, y cuáles.
     programming_languages: si el mensaje se puede relacionar con un lenguaje de programación, y cuál.
 
-    la función "from_tag" está para obtener atributos a partir de las etiquetas definidas en "all_tags"
+    la función "from_tag" está para obtener atributos a partir de las etiquetas del atributo "all_tags".
     """
     def __init__(self, message):
         # Elimina los caracteres que no son alfanuméricos
         # y genera una versión del mensaje como lista y otra como cadena de texto.
         matches = re.finditer("\w+", message.lower())
-        self.message_list = [ message[match.start():match.end()] for match in matches ]
+        self.message_list = [message[match.start():match.end()] for match in matches]
         self.message = ' '.join(self.message_list)
 
         # Define etiquetas y los atributos correspondientes.
-        self.define_tags()
 
-        # Genera el atributo "all_tags".
-        self.define_matches()
-
-    def define_tags(self):
         self.errors = "error" in self.message_list
+        # Busca indicios de palabras derivadas de "instalación", "instalar", etc.
         self.installation_tags = re.search("instal", self.message) is not None
-        self.installables = [ software for software in all_installables if software in self.message_list ]
-        self.beginner_tags = any([ True for kwd in beginner_keywords if re.search(kwd, self.message) ])
-        self.keywords = [ keyword for keyword in keywords if keyword in self.message_list ]
-        self.programming_languages = [ language for language in programming_languages if language in self.message_list ]
+        # Identifica software instalable, de la lista "all_installables"
+        self.installables = [software for software in all_installables if software in self.message_list]
+        # Detecta indicios de que el usuario diga ser novato (ver lista beginner_keywords).
+        self.beginner_tags = any([True for kwd in beginner_keywords if re.search(kwd, self.message)])
+        # Detecta palabras clave.
+        self.keywords = [keyword for keyword in general_keywords if keyword in self.message_list]
+        # Detecta si se menciona un lenguaje de programación.
+        self.programming_languages = [language for language in programming_languages if language in self.message_list]
 
-    def define_matches(self):
-        tags = []
-        if self.errors: tags.append("error")
-        if self.installation_tags: tags.append("installation")
-        if self.installables: tags.append("installable")
-        if self.beginner_tags: tags.append("beginner")
-        if self.keywords: tags.append("keyword")
-        if self.programming_languages: tags.append("programming_language")
-
-        if tags:
-            self.all_tags = tags
-        else:self.all_tags = None
-
-    def from_tag(self, tag):
-        tags_dict = {
+        self.tags_dict = {
                 "error":self.errors, "installation":self.installation_tags,
                 "installable":self.installables, "beginner":self.beginner_tags,
                 "keyword":self.keywords, "programming_language":self.programming_languages
                 }
-        return tags_dict[tag]
+
+        self.all_tags = [attr for attr in self.tags_dict if self.tags_dict[attr]]
+
+    def from_tag(self, tag):
+        return self.tags_dict[tag]
 
 
 def hierarchy_filter(tags):
@@ -165,6 +155,6 @@ def process_message_tags(message):
     # con el etiquetado del mensaje.
     tagged_message = TagMessage(message)
     # Si contiene etiquetas, entonces, que se definan las acciones a tomar.
-    if tagged_message.all_tags is not None:
+    if tagged_message.all_tags:
         actions = define_actions(tagged_message)
 
