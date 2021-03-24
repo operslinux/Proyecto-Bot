@@ -1,5 +1,5 @@
 import re
-from utils import KaliTools
+from python_modules.utils import KaliTools
 
 KaliTools = KaliTools()
 
@@ -7,7 +7,9 @@ KaliTools = KaliTools()
 all_installables = []
 tools = [ tool.lower() for tool in KaliTools.tools_list ]
 all_installables.extend(tools)
-all_installables.extend(["ubuntu", "windows", "kali", "fedora", "parrot"])
+all_installables.extend([
+    "ubuntu", "windows", "kali", "fedora", "parrot", "mint",
+    ])
 
 # Palabras clave para aportar contexto.
 general_keywords = [
@@ -24,7 +26,7 @@ beginner_keywords = ["mundo", "mundillo", "soy nuevo"]
 programming_languages = [
     "python", "c++", "visual basic", "c#",
     "javascript", "java script", "php", "sql", "ruby", "shell",
-    "type script", "typescript", "java", "bash"
+    "type script", "typescript", "java", "bash", "c"
 ]
 
 
@@ -125,17 +127,38 @@ def hierarchy_filter(tags):
 
 def define_actions(tagged_message):
     all_tags = tagged_message.all_tags
+    message_text = tagged_message.message
     # Obtiene una versión filtrada de las etiquetas junto al
     # órden que pueden tener.
     formatted_tags, order = hierarchy_filter(all_tags)
 
-    if "installation" in formatted_tags:
-        print("yup")
+    # Tratar de calcular la precisión de las etiquetas dependiendo de
+    # la objetividad de las mismas y el largo del mensaje.
+    accuracy_dict = {
+            "keyword":60, "programming_language":100, "beginner":50,
+            "installable":90, "installation":50, "error":100
+    }
+    # Precisión promedio de las etiquetas
+    tags_accuracy = sum([accuracy_dict[tag] for tag in formatted_tags])/len(formatted_tags)
+    #print(tags_accuracy)
 
-    #print(tagged_message.message)
-    #for tag in formatted_tags:
-    #    print(tag, tagged_message.from_tag(tag))
-    #print("+-"*40)
+    total = len(formatted_tags) * tags_accuracy
+    partial = len(message_text) / 35
+    accuracy = total / partial
+    print(tagged_message.message)
+    if accuracy > 50 and len(formatted_tags) > 2:
+        print("Te diré cómo hacerlo!")
+    elif accuracy > 50:
+        print("Quizá esto podría servirte...")
+    elif accuracy < 50 and accuracy > 30:
+        print("Quizá esto podría servirte...")
+    elif accuracy <= 30:
+        print("No sé cómo ayudarte, pero mira esto...")
+
+    for tag in formatted_tags:
+        print(tag, "→ → →", tagged_message.from_tag(tag))
+    print(f"Accuracy → → → {int(accuracy)}%")
+    print("+-"*40)
     actions = [
             "link to tagged resources", "beginner introduction", "show all resourses (pfd, course)",
             "ask for context", "send specific answer(depending on context)", ""

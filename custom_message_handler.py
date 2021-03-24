@@ -1,7 +1,7 @@
 import re
-from help_filter import needs_help, confirm_help
-from get_tags import process_message_tags
-from utils import clean_text
+from python_modules.help_filter import needs_help, confirm_help
+from python_modules.get_tags import process_message_tags
+from python_modules.utils import clean_text
 
 def process_message(message):
     message = clean_text(message)
