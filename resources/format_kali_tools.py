@@ -31,6 +31,6 @@ def save_to_new(dic):
 save_to_new(database)
 
 with open("installables.json", "w") as file:
-    data = json.dumps(new_dic, indent=4)
+    data = json.dumps(new_dic, indent = 4)
     file.write(data)
     file.close()

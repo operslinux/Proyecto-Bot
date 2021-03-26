@@ -1,7 +1,7 @@
 #### INSTALABLES (installables.json) ####
 
 installables = {
-    <name1> = {
+    <nombre> = {
             "homepage":<página principal>,
             "download":<url de descarga>,
             "docs":<url de documentación>

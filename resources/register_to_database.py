@@ -33,7 +33,7 @@ while True:
                 "files":files
                 }
         with open(output_file, "w") as file:
-            data = json.dumps(dic, indent=4)
+            data = json.dumps(dic, indent = 4)
             file.write(data)
             file.close()
         break
