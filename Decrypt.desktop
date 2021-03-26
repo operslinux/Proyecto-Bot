@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=Encrypt
-Exec=python3 -B python_modules/encryption/main.py decrypt %U
+Exec=python3 -B encryption/main.py decrypt %U
 Icon=gcr-key
 Terminal=true
 StartupNotify=false
