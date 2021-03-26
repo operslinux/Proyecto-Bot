@@ -68,5 +68,6 @@ print()
 
 
 with open("kali_tools.json", "w") as file:
-    json.dump(database, file)
+    data = json.dumps(database, indent = 4)
+    file.write(data)
     file.close()

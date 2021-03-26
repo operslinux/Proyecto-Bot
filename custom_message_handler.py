@@ -1,14 +1,6 @@
-import re
-from python_modules.help_filter import needs_help, confirm_help
-from python_modules.get_tags import process_message_tags
-from python_modules.utils import clean_text
-
-def process_message(message):
-    message = clean_text(message)
-    if needs_help(message):
-        if confirm_help(message):
-            process_message_tags(message)
-
+from help_filter import needs_help, confirm_help
+from utils import clean_text
+from process_help import Recolector
 
 ############################################# PRUEBAS ################################
 import json
@@ -19,5 +11,12 @@ with open("result.json", "r") as file:
 chat = chat_history["messages"]
 messages = [item["text"] for item in chat if isinstance((item["text"]), str)]
 
+# Probar la recolección de información
 for message in messages:
-    process_message(message)
+    if needs_help(message) and confirm_help(message):
+        item = Recolector(message.lower())
+        if item.data:
+            print(message)
+            data = json.dumps(item.data, indent = 2)
+            print(data)
+            print("+-"*40)

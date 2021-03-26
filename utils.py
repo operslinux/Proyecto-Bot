@@ -7,7 +7,7 @@ Módulo con funciones que se implementan
 en distintos scripts.
 """
 
-KALI_TOOLS_DATA_PATH = "python_modules/kali_tools/kali_tools.json"
+KALI_TOOLS_DATA_PATH = "resources/kali_tools/kali_tools.json"
 
 # Esta clase nos permite obtener las herramientas en diferentes formatos.
 class KaliTools:

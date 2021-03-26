@@ -1,0 +1,1516 @@
+{
+    "ace-voip": {
+        "homepage": "https://tools.kali.org/information-gathering/ace-voip",
+        "download": "https://gitlab.com/kalilinux/packages/ace-voip",
+        "docs": "http://ucsniff.sourceforge.net/ace.html",
+        "custom": {}
+    },
+    "amap": {
+        "homepage": "https://tools.kali.org/information-gathering/amap",
+        "download": "https://gitlab.com/kalilinux/packages/amap",
+        "docs": "https://github.com/vanhauser-thc/THC-Archive/tree/master/Tools",
+        "custom": {}
+    },
+    "apt2": {
+        "homepage": "https://tools.kali.org/information-gathering/apt2",
+        "download": "https://github.com/MooseDojo/apt2",
+        "docs": "https://github.com/MooseDojo/apt2",
+        "custom": {}
+    },
+    "arp-scan": {
+        "homepage": "https://tools.kali.org/information-gathering/arp-scan",
+        "download": "https://github.com/royhills/arp-scan",
+        "docs": "https://github.com/royhills/arp-scan",
+        "custom": {}
+    },
+    "automater": {
+        "homepage": "https://tools.kali.org/information-gathering/automater",
+        "download": "https://gitlab.com/kalilinux/packages/automater",
+        "docs": "http://www.tekdefense.com/automater/",
+        "custom": {}
+    },
+    "bing-ip2hosts": {
+        "homepage": "https://tools.kali.org/information-gathering/bing-ip2hosts",
+        "download": "https://gitlab.com/kalilinux/packages/bing-ip2hosts",
+        "docs": "http://www.morningstarsecurity.com/research/bing-ip2hosts/",
+        "custom": {}
+    },
+    "braa": {
+        "homepage": "https://tools.kali.org/information-gathering/braa",
+        "download": "https://gitlab.com/kalilinux/packages/braa",
+        "docs": "http://s-tech.elsat.net.pl/",
+        "custom": {}
+    },
+    "casefile": {
+        "homepage": "https://tools.kali.org/information-gathering/casefile",
+        "download": "https://gitlab.com/kalilinux/packages/casefile",
+        "docs": "https://paterva.com",
+        "custom": {}
+    },
+    "cdpsnarf": {
+        "homepage": "https://tools.kali.org/information-gathering/cdpsnarf",
+        "download": "https://gitlab.com/kalilinux/packages/cdpsnarf",
+        "docs": "https://github.com/Zapotek/cdpsnarf",
+        "custom": {}
+    },
+    "cisco-torch": {
+        "homepage": "https://tools.kali.org/information-gathering/cisco-torch",
+        "download": "https://gitlab.com/kalilinux/packages/cisco-torch",
+        "docs": "http://www.hackingciscoexposed.com/?link=tools",
+        "custom": {}
+    },
+    "copy-router-config": {
+        "homepage": "https://tools.kali.org/information-gathering/copy-router-config",
+        "download": "https://gitlab.com/kalilinux/packages/copy-router-config",
+        "docs": "http://www.offensive-security.com",
+        "custom": {}
+    },
+    "dmitry": {
+        "homepage": "https://tools.kali.org/information-gathering/dmitry",
+        "download": "https://tools.kali.org/category/information-gathering",
+        "docs": "https://tools.kali.org/author/ports",
+        "custom": {}
+    },
+    "dnmap": {
+        "homepage": "https://tools.kali.org/information-gathering/dnmap",
+        "download": "https://gitlab.com/kalilinux/packages/dnmap",
+        "docs": "http://sourceforge.net/projects/dnmap/",
+        "custom": {}
+    },
+    "dnsenum": {
+        "homepage": "https://tools.kali.org/information-gathering/dnsenum",
+        "download": "https://gitlab.com/kalilinux/packages/dnsenum",
+        "docs": "https://github.com/fwaeytens/dnsenum",
+        "custom": {}
+    },
+    "dnsmap": {
+        "homepage": "https://tools.kali.org/information-gathering/dnsmap",
+        "download": "https://gitlab.com/kalilinux/packages/dnsmap",
+        "docs": "http://code.google.com/p/dnsmap/",
+        "custom": {}
+    },
+    "dnsrecon": {
+        "homepage": "https://tools.kali.org/information-gathering/dnsrecon",
+        "download": "https://tools.kali.org/category/information-gathering",
+        "docs": "https://tools.kali.org/author/ports",
+        "custom": {}
+    },
+    "dnstracer": {
+        "homepage": "https://tools.kali.org/information-gathering/dnstracer",
+        "download": "https://gitlab.com/kalilinux/packages/dnstracer",
+        "docs": "http://freshmeat.net/projects/dnstracer",
+        "custom": {}
+    },
+    "dnswalk": {
+        "homepage": "https://tools.kali.org/information-gathering/dnswalk",
+        "download": "",
+        "docs": "http://sourceforge.net/projects/dnswalk/",
+        "custom": {}
+    },
+    "dotdotpwn": {
+        "homepage": "https://tools.kali.org/information-gathering/dotdotpwn",
+        "download": "https://gitlab.com/kalilinux/packages/dotdotpwn",
+        "docs": "http://dotdotpwn.blogspot.ca",
+        "custom": {}
+    },
+    "enum4linux": {
+        "homepage": "https://tools.kali.org/information-gathering/enum4linux",
+        "download": "https://gitlab.com/kalilinux/packages/enum4linux",
+        "docs": "https://labs.portcullis.co.uk/tools/enum4linux/",
+        "custom": {}
+    },
+    "enumiax": {
+        "homepage": "https://tools.kali.org/information-gathering/enumiax",
+        "download": "https://gitlab.com/kalilinux/packages/enumiax",
+        "docs": "http://enumiax.sourceforge.net/",
+        "custom": {}
+    },
+    "eyewitness": {
+        "homepage": "https://tools.kali.org/information-gathering/eyewitness",
+        "download": "https://github.com/ChrisTruncer/EyeWitness",
+        "docs": "https://github.com/ChrisTruncer/EyeWitness",
+        "custom": {}
+    },
+    "faraday": {
+        "homepage": "https://tools.kali.org/information-gathering/faraday",
+        "download": "https://gitlab.com/kalilinux/packages/python-faraday",
+        "docs": "https://www.faradaysec.com/",
+        "custom": {}
+    },
+    "fierce": {
+        "homepage": "https://tools.kali.org/information-gathering/fierce",
+        "download": "https://gitlab.com/kalilinux/packages/fierce",
+        "docs": null,
+        "custom": {}
+    },
+    "firewalk": {
+        "homepage": "https://tools.kali.org/information-gathering/firewalk",
+        "download": "https://gitlab.com/kalilinux/packages/firewalk",
+        "docs": "http://packetfactory.openwall.net/projects/firewalk/",
+        "custom": {}
+    },
+    "fragroute": {
+        "homepage": "https://tools.kali.org/information-gathering/fragroute",
+        "download": "https://gitlab.com/kalilinux/packages/fragroute",
+        "docs": "http://www.monkey.org/~dugsong/fragroute/",
+        "custom": {}
+    },
+    "fragrouter": {
+        "homepage": "https://tools.kali.org/information-gathering/fragrouter",
+        "download": "https://gitlab.com/kalilinux/packages/fragrouter",
+        "docs": "http://www.anzen.com/research/nidsbench/fragrouter.html",
+        "custom": {}
+    },
+    "ghost phisher": {
+        "homepage": "https://tools.kali.org/information-gathering/ghost-phisher",
+        "download": "https://gitlab.com/kalilinux/packages/ghost-phisher",
+        "docs": "https://github.com/savio-code/ghost-phisher",
+        "custom": {}
+    },
+    "golismero": {
+        "homepage": "https://tools.kali.org/information-gathering/golismero",
+        "download": "https://gitlab.com/kalilinux/packages/golismero",
+        "docs": "https://github.com/golismero/golismero",
+        "custom": {}
+    },
+    "goofile": {
+        "homepage": "https://tools.kali.org/information-gathering/goofile",
+        "download": "https://gitlab.com/kalilinux/packages/goofile",
+        "docs": "http://code.google.com/p/goofile/",
+        "custom": {}
+    },
+    "hping3": {
+        "homepage": "https://tools.kali.org/information-gathering/hping3",
+        "download": "https://gitlab.com/kalilinux/packages/hping3",
+        "docs": "http://www.hping.org/",
+        "custom": {}
+    },
+    "ident-user-enum": {
+        "homepage": "https://tools.kali.org/information-gathering/ident-user-enum",
+        "download": "https://gitlab.com/kalilinux/packages/ident-user-enum.git",
+        "docs": "http://pentestmonkey.net/tools/user-enumeration/ident-user-enum",
+        "custom": {}
+    },
+    "inspy": {
+        "homepage": "https://tools.kali.org/information-gathering/inspy",
+        "download": "https://github.com/gojhonny/InSpy",
+        "docs": "https://github.com/gojhonny/InSpy",
+        "custom": {}
+    },
+    "intrace": {
+        "homepage": "https://tools.kali.org/information-gathering/intrace",
+        "download": "https://gitlab.com/kalilinux/packages/intrace",
+        "docs": "https://github.com/robertswiecki/intrace",
+        "custom": {}
+    },
+    "ismtp": {
+        "homepage": "https://tools.kali.org/information-gathering/ismtp",
+        "download": "https://gitlab.com/kalilinux/packages/ismtp",
+        "docs": "https://github.com/altjx/ipwn/",
+        "custom": {}
+    },
+    "lbd": {
+        "homepage": "https://tools.kali.org/information-gathering/lbd",
+        "download": "https://tools.kali.org/category/information-gathering",
+        "docs": "https://tools.kali.org/author/ports",
+        "custom": {}
+    },
+    "maltego teeth": {
+        "homepage": "https://tools.kali.org/information-gathering/maltego-teeth",
+        "download": "https://gitlab.com/kalilinux/packages/maltego-teeth",
+        "docs": "http://paterva.com",
+        "custom": {}
+    },
+    "masscan": {
+        "homepage": "https://tools.kali.org/information-gathering/masscan",
+        "download": "https://gitlab.com/kalilinux/packages/masscan",
+        "docs": "https://github.com/robertdavidgraham/masscan",
+        "custom": {}
+    },
+    "metagoofil": {
+        "homepage": "https://tools.kali.org/information-gathering/metagoofil",
+        "download": "https://gitlab.com/kalilinux/packages/metagoofil",
+        "docs": "http://www.edge-security.com/metagoofil.php",
+        "custom": {}
+    },
+    "miranda": {
+        "homepage": "https://tools.kali.org/information-gathering/miranda",
+        "download": "https://gitlab.com/kalilinux/packages/miranda",
+        "docs": "http://code.google.com/p/mirandaupnptool/",
+        "custom": {}
+    },
+    "nbtscan-unixwiz": {
+        "homepage": "https://tools.kali.org/information-gathering/nbtscan-unixwiz",
+        "download": "https://gitlab.com/kalilinux/packages/nbtscan-unixwiz.git;a=tree;h=refs/heads/kali/master;hb=refs/heads/kali/master",
+        "docs": "http://unixwiz.net/tools/nbtscan.html",
+        "custom": {}
+    },
+    "nikto": {
+        "homepage": "https://tools.kali.org/information-gathering/nikto",
+        "download": "https://tools.kali.org/category/information-gathering",
+        "docs": "https://tools.kali.org/author/g0tmi1k",
+        "custom": {}
+    },
+    "nmap": {
+        "homepage": "https://tools.kali.org/information-gathering/nmap",
+        "download": "https://gitlab.com/kalilinux/packages/nmap",
+        "docs": "http://insecure.org/",
+        "custom": {}
+    },
+    "ntop": {
+        "homepage": "https://tools.kali.org/information-gathering/ntop",
+        "download": "https://gitlab.com/kalilinux/packages/ntop",
+        "docs": "http://www.ntop.org/",
+        "custom": {}
+    },
+    "osrframework": {
+        "homepage": "https://tools.kali.org/information-gathering/osrframework",
+        "download": "https://gitlab.com/kalilinux/packages/osrframework.git",
+        "docs": "https://github.com/i3visio/osrframework",
+        "custom": {}
+    },
+    "p0f": {
+        "homepage": "https://tools.kali.org/information-gathering/p0f",
+        "download": "https://gitlab.com/kalilinux/packages/p0f",
+        "docs": "http://lcamtuf.coredump.cx/p0f3/",
+        "custom": {}
+    },
+    "parsero": {
+        "homepage": "https://tools.kali.org/information-gathering/parsero",
+        "download": "https://gitlab.com/kalilinux/packages/parsero.git;a=tree",
+        "docs": "https://github.com/behindthefirewalls/Parsero",
+        "custom": {}
+    },
+    "recon-ng": {
+        "homepage": "https://tools.kali.org/information-gathering/recon-ng",
+        "download": "https://gitlab.com/kalilinux/packages/recon-ng",
+        "docs": "http://recon-ng.com",
+        "custom": {}
+    },
+    "set": {
+        "homepage": "https://tools.kali.org/information-gathering/set",
+        "download": "https://gitlab.com/kalilinux/packages/set",
+        "docs": "https://github.com/trustedsec/social-engineer-toolkit/",
+        "custom": {}
+    },
+    "smbmap": {
+        "homepage": "https://tools.kali.org/information-gathering/smbmap",
+        "download": "https://github.com/ShawnDEvans/smbmap",
+        "docs": "https://github.com/ShawnDEvans/smbmap",
+        "custom": {}
+    },
+    "smtp-user-enum": {
+        "homepage": "https://tools.kali.org/information-gathering/smtp-user-enum",
+        "download": "https://gitlab.com/kalilinux/packages/smtp-user-enum",
+        "docs": "http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum",
+        "custom": {}
+    },
+    "snmp-check": {
+        "homepage": "https://tools.kali.org/information-gathering/snmp-check",
+        "download": "https://gitlab.com/kalilinux/packages/snmpcheck",
+        "docs": "http://www.nothink.org/codes/snmpcheck/index.php",
+        "custom": {}
+    },
+    "sparta": {
+        "homepage": "https://tools.kali.org/information-gathering/sparta",
+        "download": "https://gitlab.com/kalilinux/packages/sparta.git",
+        "docs": "http://sparta.secforce.com/",
+        "custom": {}
+    },
+    "sslcaudit": {
+        "homepage": "https://tools.kali.org/information-gathering/sslcaudit",
+        "download": "https://gitlab.com/kalilinux/packages/sslcaudit",
+        "docs": "http://www.gremwell.com/sslcaudit_v1_0",
+        "custom": {}
+    },
+    "sslsplit": {
+        "homepage": "https://tools.kali.org/information-gathering/sslsplit",
+        "download": "https://gitlab.com/kalilinux/packages/sslsplit",
+        "docs": "https://www.roe.ch/SSLsplit",
+        "custom": {}
+    },
+    "sslstrip": {
+        "homepage": "https://tools.kali.org/information-gathering/sslstrip",
+        "download": "https://gitlab.com/kalilinux/packages/sslstrip",
+        "docs": "https://moxie.org/software/sslstrip/",
+        "custom": {}
+    },
+    "sslyze": {
+        "homepage": "https://tools.kali.org/information-gathering/sslyze",
+        "download": "https://gitlab.com/kalilinux/packages/sslyze",
+        "docs": "https://github.com/iSECPartners/sslyze",
+        "custom": {}
+    },
+    "sublist3r": {
+        "homepage": "https://tools.kali.org/information-gathering/sublist3r",
+        "download": "https://github.com/aboul3la/Sublist3r",
+        "docs": "https://github.com/aboul3la/Sublist3r",
+        "custom": {}
+    },
+    "thc-ipv6": {
+        "homepage": "https://tools.kali.org/information-gathering/thc-ipv6",
+        "download": "https://gitlab.com/kalilinux/packages/thc-ipv6",
+        "docs": "https://www.thc.org/thc-ipv6/",
+        "custom": {}
+    },
+    "theharvester": {
+        "homepage": "https://tools.kali.org/information-gathering/theharvester",
+        "download": "https://gitlab.com/kalilinux/packages/theharvester",
+        "docs": "https://github.com/laramies/theHarvester",
+        "custom": {}
+    },
+    "tlssled": {
+        "homepage": "https://tools.kali.org/information-gathering/tlssled",
+        "download": "https://gitlab.com/kalilinux/packages/tlssled",
+        "docs": "http://www.taddong.com/en/lab.html",
+        "custom": {}
+    },
+    "twofi": {
+        "homepage": "https://tools.kali.org/information-gathering/twofi",
+        "download": "https://gitlab.com/kalilinux/packages/twofi",
+        "docs": "https://digi.ninja/projects/twofi.php",
+        "custom": {}
+    },
+    "unicornscan": {
+        "homepage": "https://tools.kali.org/information-gathering/unicornscan",
+        "download": "https://tools.kali.org/category/information-gathering",
+        "docs": "https://tools.kali.org/author/g0tmi1k",
+        "custom": {}
+    },
+    "urlcrazy": {
+        "homepage": "https://tools.kali.org/information-gathering/urlcrazy",
+        "download": "https://gitlab.com/kalilinux/packages/urlcrazy",
+        "docs": "http://www.morningstarsecurity.com/research/urlcrazy",
+        "custom": {}
+    },
+    "wireshark": {
+        "homepage": "https://tools.kali.org/information-gathering/wireshark",
+        "download": "https://gitlab.com/kalilinux/packages/wireshark",
+        "docs": "http://www.wireshark.org/",
+        "custom": {}
+    },
+    "wol-e": {
+        "homepage": "https://tools.kali.org/information-gathering/wol-e",
+        "download": "https://gitlab.com/kalilinux/packages/wol-e",
+        "docs": "http://code.google.com/p/wol-e/",
+        "custom": {}
+    },
+    "xplico": {
+        "homepage": "https://tools.kali.org/information-gathering/xplico",
+        "download": "https://gitlab.com/kalilinux/packages/xplico",
+        "docs": "http://www.xplico.org",
+        "custom": {}
+    },
+    "armitage": {
+        "homepage": "https://tools.kali.org/exploitation-tools/armitage",
+        "download": "https://gitlab.com/kalilinux/packages/armitage",
+        "docs": "http://www.fastandeasyhacking.com/",
+        "custom": {}
+    },
+    "backdoor factory": {
+        "homepage": "https://tools.kali.org/exploitation-tools/backdoor-factory",
+        "download": "https://gitlab.com/kalilinux/packages/backdoor-factory",
+        "docs": "https://github.com/secretsquirrel/the-backdoor-factory/",
+        "custom": {}
+    },
+    "beef": {
+        "homepage": "https://tools.kali.org/exploitation-tools/beef-xss",
+        "download": "https://gitlab.com/kalilinux/packages/beef-xss",
+        "docs": "https://beefproject.com/",
+        "custom": {}
+    },
+    "cisco-auditing-tool": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/cisco-auditing-tool",
+        "download": "https://gitlab.com/kalilinux/packages/cisco-auditing-tool",
+        "docs": "http://www.scrypt.net",
+        "custom": {}
+    },
+    "cisco-global-exploiter": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/cisco-global-exploiter",
+        "download": "https://gitlab.com/kalilinux/packages/cisco-global-exploiter",
+        "docs": "http://www.blackangels.it",
+        "custom": {}
+    },
+    "cisco-ocs": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/cisco-ocs",
+        "download": "https://gitlab.com/kalilinux/packages/cisco-ocs",
+        "docs": "http://www.blackangels.it",
+        "custom": {}
+    },
+    "commix": {
+        "homepage": "https://tools.kali.org/exploitation-tools/commix",
+        "download": "https://gitlab.com/kalilinux/packages/commix.git;a=tree;h=refs/heads/kali/master;hb=refs/heads/kali/master",
+        "docs": "https://github.com/stasinopoulos/commix",
+        "custom": {}
+    },
+    "crackle": {
+        "homepage": "https://tools.kali.org/wireless-attacks/crackle",
+        "download": "https://gitlab.com/kalilinux/packages/crackle",
+        "docs": "https://github.com/mikeryan/crackle",
+        "custom": {}
+    },
+    "exploitdb": {
+        "homepage": "https://tools.kali.org/exploitation-tools/exploitdb",
+        "download": "https://gitlab.com/kalilinux/packages/exploitdb",
+        "docs": "http://www.exploit-db.com/",
+        "custom": {}
+    },
+    "jboss-autopwn": {
+        "homepage": "https://tools.kali.org/web-applications/jboss-autopwn",
+        "download": "https://gitlab.com/kalilinux/packages/jboss-autopwn",
+        "docs": "https://github.com/SpiderLabs/jboss-autopwn",
+        "custom": {}
+    },
+    "linux exploit suggester": {
+        "homepage": "https://tools.kali.org/exploitation-tools/linux-exploit-suggester",
+        "download": "https://gitlab.com/kalilinux/packages/linux-exploit-suggester",
+        "docs": "http://penturalabs.wordpress.com/2013/08/26/linux-exploit-suggester/",
+        "custom": {}
+    },
+    "metasploit framework": {
+        "homepage": "https://tools.kali.org/exploitation-tools/metasploit-framework",
+        "download": "https://metasploit.com/",
+        "docs": "https://community.rapid7.com/docs/DOC-1567",
+        "custom": {}
+    },
+    "msfpc": {
+        "homepage": "https://tools.kali.org/exploitation-tools/msfpc",
+        "download": "https://github.com/g0tmi1k/mpc",
+        "docs": "https://github.com/g0tmi1k/mpc",
+        "custom": {}
+    },
+    "routersploit": {
+        "homepage": "https://tools.kali.org/exploitation-tools/routersploit",
+        "download": "https://gitlab.com/kalilinux/packages/routersploit.git",
+        "docs": "https://github.com/reverse-shell/routersploit",
+        "custom": {}
+    },
+    "shellnoob": {
+        "homepage": "https://tools.kali.org/exploitation-tools/shellnoob",
+        "download": "https://gitlab.com/kalilinux/packages/shellnoob",
+        "docs": "https://github.com/reyammer/shellnoob",
+        "custom": {}
+    },
+    "sqlmap": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/sqlmap",
+        "download": "https://gitlab.com/kalilinux/packages/sqlmap",
+        "docs": "http://sqlmap.org/",
+        "custom": {}
+    },
+    "yersinia": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/yersinia",
+        "download": "https://gitlab.com/kalilinux/packages/yersinia",
+        "docs": "https://github.com/tomac/yersinia",
+        "custom": {}
+    },
+    "binwalk": {
+        "homepage": "https://tools.kali.org/forensics/binwalk",
+        "download": "https://gitlab.com/kalilinux/packages/binwalk",
+        "docs": "https://github.com/ReFirmLabs/binwalk",
+        "custom": {}
+    },
+    "bulk-extractor": {
+        "homepage": "https://tools.kali.org/forensics/bulk-extractor",
+        "download": "https://gitlab.com/kalilinux/packages/bulk-extractor",
+        "docs": "https://github.com/simsong/bulk_extractor/",
+        "custom": {}
+    },
+    "capstone": {
+        "homepage": "https://tools.kali.org/forensics/capstone",
+        "download": "https://gitlab.com/kalilinux/packages/capstone",
+        "docs": "https://www.capstone-engine.org/",
+        "custom": {}
+    },
+    "chntpw": {
+        "homepage": "https://tools.kali.org/password-attacks/chntpw",
+        "download": "https://gitlab.com/kalilinux/packages/chntpw",
+        "docs": "https://pogostick.net/~pnh/ntpasswd/",
+        "custom": {}
+    },
+    "cuckoo": {
+        "homepage": "https://tools.kali.org/forensics/cuckoo",
+        "download": "https://gitlab.com/kalilinux/packages/cuckoo",
+        "docs": "https://github.com/cuckoosandbox",
+        "custom": {}
+    },
+    "dc3dd": {
+        "homepage": "https://tools.kali.org/forensics/dc3dd",
+        "download": "https://gitlab.com/kalilinux/packages/dc3dd",
+        "docs": "https://sourceforge.net/projects/dc3dd/",
+        "custom": {}
+    },
+    "ddrescue": {
+        "homepage": "https://tools.kali.org/forensics/ddrescue",
+        "download": "https://gitlab.com/kalilinux/packages/ddrescue",
+        "docs": "http://www.garloff.de/kurt/linux/ddrescue/",
+        "custom": {}
+    },
+    "dff": {
+        "homepage": "https://tools.kali.org/forensics/dff",
+        "download": "https://gitlab.com/kalilinux/packages/dff",
+        "docs": "http://www.digital-forensic.org/",
+        "custom": {}
+    },
+    "distorm3": {
+        "homepage": "https://tools.kali.org/reverse-engineering/distorm3",
+        "download": "https://gitlab.com/kalilinux/packages/distorm3",
+        "docs": "https://github.com/gdabah/distorm",
+        "custom": {}
+    },
+    "dumpzilla": {
+        "homepage": "https://tools.kali.org/forensics/dumpzilla",
+        "download": "https://gitlab.com/kalilinux/packages/dumpzilla",
+        "docs": "http://www.dumpzilla.org/",
+        "custom": {}
+    },
+    "extundelete": {
+        "homepage": "https://tools.kali.org/forensics/extundelete",
+        "download": "https://gitlab.com/kalilinux/packages/extundelete",
+        "docs": "http://extundelete.sourceforge.net/",
+        "custom": {}
+    },
+    "foremost": {
+        "homepage": "https://tools.kali.org/forensics/foremost",
+        "download": "https://gitlab.com/kalilinux/packages/foremost",
+        "docs": "http://foremost.sourceforge.net/",
+        "custom": {}
+    },
+    "galleta": {
+        "homepage": "https://tools.kali.org/forensics/galleta",
+        "download": "https://gitlab.com/kalilinux/packages/galleta",
+        "docs": "http://sourceforge.net/project/showfiles.php?group_id=78332",
+        "custom": {}
+    },
+    "guymager": {
+        "homepage": "https://tools.kali.org/forensics/guymager",
+        "download": "https://gitlab.com/kalilinux/packages/guymager",
+        "docs": "http://guymager.sourceforge.net/",
+        "custom": {}
+    },
+    "iphone backup analyzer": {
+        "homepage": "https://tools.kali.org/forensics/iphone-backup-analyzer",
+        "download": "https://gitlab.com/kalilinux/packages/iphone-backup-analyzer",
+        "docs": "https://sourceforge.net/projects/iphoneanalyzer/",
+        "custom": {}
+    },
+    "pdf-parser": {
+        "homepage": "https://tools.kali.org/forensics/pdf-parser",
+        "download": "https://gitlab.com/kalilinux/packages/pdf-parser",
+        "docs": "http://blog.didierstevens.com/programs/pdf-tools/",
+        "custom": {}
+    },
+    "pdfid": {
+        "homepage": "https://tools.kali.org/forensics/pdfid",
+        "download": "https://gitlab.com/kalilinux/packages/pdfid",
+        "docs": "http://blog.didierstevens.com/programs/pdf-tools/",
+        "custom": {}
+    },
+    "pdgmail": {
+        "homepage": "https://tools.kali.org/forensics/pdgmail",
+        "download": "https://gitlab.com/kalilinux/packages/pdgmail",
+        "docs": "http://www.jeffbryner.com/code/pdgmail",
+        "custom": {}
+    },
+    "peepdf": {
+        "homepage": "https://tools.kali.org/forensics/peepdf",
+        "download": "https://gitlab.com/kalilinux/packages/peepdf",
+        "docs": "http://eternal-todo.com/tools/peepdf-pdf-analysis-tool",
+        "custom": {}
+    },
+    "regripper": {
+        "homepage": "https://tools.kali.org/forensics/regripper",
+        "download": "https://gitlab.com/kalilinux/packages/regripper",
+        "docs": "https://github.com/keydet89/RegRipper2.8",
+        "custom": {}
+    },
+    "volatility": {
+        "homepage": "https://tools.kali.org/forensics/volatility",
+        "download": "https://gitlab.com/kalilinux/packages/volatility",
+        "docs": "https://github.com/volatilityfoundation/volatility",
+        "custom": {}
+    },
+    "dhcpig": {
+        "homepage": "https://tools.kali.org/stress-testing/dhcpig",
+        "download": "https://gitlab.com/kalilinux/packages/dhcpig",
+        "docs": "https://github.com/kamorin/DHCPig",
+        "custom": {}
+    },
+    "funkload": {
+        "homepage": "https://tools.kali.org/web-applications/funkload",
+        "download": "https://gitlab.com/kalilinux/packages/funkload",
+        "docs": "http://funkload.nuxeo.org/",
+        "custom": {}
+    },
+    "iaxflood": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/iaxflood",
+        "download": "https://gitlab.com/kalilinux/packages/iaxflood",
+        "docs": "http://www.hackingexposedvoip.com/sec_tools.html",
+        "custom": {}
+    },
+    "inundator": {
+        "homepage": "https://tools.kali.org/stress-testing/inundator",
+        "download": "https://gitlab.com/kalilinux/packages/inundator",
+        "docs": "http://inundator.sourceforge.net/",
+        "custom": {}
+    },
+    "inviteflood": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/inviteflood",
+        "download": "https://gitlab.com/kalilinux/packages/inviteflood",
+        "docs": "http://www.hackingvoip.com/sec_tools.html",
+        "custom": {}
+    },
+    "ipv6-toolkit": {
+        "homepage": "https://tools.kali.org/stress-testing/ipv6-toolkit",
+        "download": "https://gitlab.com/kalilinux/packages/ipv6-toolkit",
+        "docs": "http://www.si6networks.com/tools/ipv6toolkit/",
+        "custom": {}
+    },
+    "mdk3": {
+        "homepage": "https://tools.kali.org/wireless-attacks/mdk3",
+        "download": "https://gitlab.com/kalilinux/packages/mdk3",
+        "docs": "http://homepages.tu-darmstadt.de/~p_larbig/wlan/",
+        "custom": {}
+    },
+    "reaver": {
+        "homepage": "https://tools.kali.org/wireless-attacks/reaver",
+        "download": "https://github.com/t6x/reaver-wps-fork-t6x",
+        "docs": "https://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf",
+        "custom": {}
+    },
+    "rtpflood": {
+        "homepage": "https://tools.kali.org/stress-testing/rtpflood",
+        "download": "https://gitlab.com/kalilinux/packages/rtpflood",
+        "docs": "http://www.hackingvoip.com/sec_tools.html",
+        "custom": {}
+    },
+    "slowhttptest": {
+        "homepage": "https://tools.kali.org/stress-testing/slowhttptest",
+        "download": "https://gitlab.com/kalilinux/packages/slowhttptest",
+        "docs": "https://github.com/shekyan/slowhttptest",
+        "custom": {}
+    },
+    "t50": {
+        "homepage": "https://tools.kali.org/stress-testing/t50",
+        "download": "https://gitlab.com/kalilinux/packages/t50",
+        "docs": "http://t50.sourceforge.net/",
+        "custom": {}
+    },
+    "termineter": {
+        "homepage": "https://tools.kali.org/stress-testing/termineter",
+        "download": "https://gitlab.com/kalilinux/packages/termineter",
+        "docs": "https://github.com/securestate/termineter",
+        "custom": {}
+    },
+    "thc-ssl-dos": {
+        "homepage": "https://tools.kali.org/stress-testing/thc-ssl-dos",
+        "download": "https://gitlab.com/kalilinux/packages/thc-ssl-dos",
+        "docs": "http://www.thc.org/thc-ssl-dos/",
+        "custom": {}
+    },
+    "bettercap": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/bettercap",
+        "download": "https://gitlab.com/kalilinux/packages/bettercap",
+        "docs": "https://www.bettercap.org/",
+        "custom": {}
+    },
+    "burp suite": {
+        "homepage": "https://tools.kali.org/web-applications/burpsuite",
+        "download": "https://gitlab.com/kalilinux/packages/burpsuite",
+        "docs": "http://portswigger.net/",
+        "custom": {}
+    },
+    "dnschef": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/dnschef",
+        "download": "https://gitlab.com/kalilinux/packages/dnschef",
+        "docs": "http://thesprawl.org/projects/dnschef/",
+        "custom": {}
+    },
+    "fiked": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/fiked",
+        "download": "https://gitlab.com/kalilinux/packages/fiked",
+        "docs": "http://www.roe.ch/FakeIKEd",
+        "custom": {}
+    },
+    "hamster-sidejack": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/hamster-sidejack",
+        "download": "https://gitlab.com/kalilinux/packages/hamster-sidejack",
+        "docs": "http://www.erratasec.com/",
+        "custom": {}
+    },
+    "hexinject": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/hexinject",
+        "download": "https://gitlab.com/kalilinux/packages/hexinject",
+        "docs": "http://hexinject.sourceforge.net/",
+        "custom": {}
+    },
+    "isr-evilgrade": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/isr-evilgrade",
+        "download": "https://gitlab.com/kalilinux/packages/isr-evilgrade",
+        "docs": "http://www.infobytesec.com/developments.html",
+        "custom": {}
+    },
+    "mitmproxy": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/mitmproxy",
+        "download": "https://gitlab.com/kalilinux/packages/mitmproxy",
+        "docs": "http://mitmproxy.org/",
+        "custom": {}
+    },
+    "ohrwurm": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/ohrwurm",
+        "download": "https://gitlab.com/kalilinux/packages/ohrwurm",
+        "docs": "http://mazzoo.de/blog/2006/08/25#ohrwurm",
+        "custom": {}
+    },
+    "protos-sip": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/protos-sip",
+        "download": "https://gitlab.com/kalilinux/packages/protos-sip",
+        "docs": "https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip",
+        "custom": {}
+    },
+    "rebind": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/rebind",
+        "download": "https://gitlab.com/kalilinux/packages/rebind",
+        "docs": "https://code.google.com/p/rebind/",
+        "custom": {}
+    },
+    "responder": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/responder",
+        "download": "https://github.com/lgandx/Responder/",
+        "docs": "https://github.com/lgandx/Responder/",
+        "custom": {}
+    },
+    "rtpbreak": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/rtpbreak",
+        "download": "https://gitlab.com/kalilinux/packages/rtpbreak",
+        "docs": "http://dallachiesa.com/",
+        "custom": {}
+    },
+    "rtpinsertsound": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/rtpinsertsound",
+        "download": "https://gitlab.com/kalilinux/packages/rtpinsertsound",
+        "docs": "http://www.hackingvoip.com/sec_tools.html",
+        "custom": {}
+    },
+    "rtpmixsound": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/rtpmixsound",
+        "download": "https://gitlab.com/kalilinux/packages/rtpmixsound",
+        "docs": "http://www.hackingvoip.com/sec_tools.html",
+        "custom": {}
+    },
+    "sctpscan": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/sctpscan",
+        "download": "https://gitlab.com/kalilinux/packages/sctpscan",
+        "docs": "http://www.p1sec.com/corp/research/tools/sctpscan/",
+        "custom": {}
+    },
+    "siparmyknife": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/siparmyknife",
+        "download": "https://gitlab.com/kalilinux/packages/siparmyknife",
+        "docs": "https://packetstormsecurity.com/files/107301/SIP-Army-Knife-Fuzzer-1123",
+        "custom": {}
+    },
+    "sipp": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/sipp",
+        "download": "https://gitlab.com/kalilinux/packages/sipp",
+        "docs": "http://sipp.sourceforge.net/",
+        "custom": {}
+    },
+    "sipvicious": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/sipvicious",
+        "download": "https://gitlab.com/kalilinux/packages/sipvicious",
+        "docs": "https://sipvicious.org/",
+        "custom": {}
+    },
+    "sniffjoke": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/sniffjoke",
+        "download": "https://gitlab.com/kalilinux/packages/sniffjoke",
+        "docs": "https://github.com/vecna/sniffjoke",
+        "custom": {}
+    },
+    "voiphopper": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/voiphopper",
+        "download": "https://gitlab.com/kalilinux/packages/voiphopper",
+        "docs": "http://voiphopper.sourceforge.net/",
+        "custom": {}
+    },
+    "webscarab": {
+        "homepage": "https://tools.kali.org/web-applications/webscarab",
+        "download": "https://gitlab.com/kalilinux/packages/webscarab",
+        "docs": "http://dawes.za.net/rogan/webscarab/#current",
+        "custom": {}
+    },
+    "wifi honey": {
+        "homepage": "https://tools.kali.org/wireless-attacks/wifi-honey",
+        "download": "https://gitlab.com/kalilinux/packages/wifi-honey",
+        "docs": "https://digi.ninja/projects/wifi_honey.php",
+        "custom": {}
+    },
+    "xspy": {
+        "homepage": "https://tools.kali.org/sniffingspoofing/xspy",
+        "download": "https://gitlab.com/kalilinux/packages/xspy",
+        "docs": "https://github.com/mnp/xspy/blob/master/xspy.c",
+        "custom": {}
+    },
+    "zaproxy": {
+        "homepage": "https://tools.kali.org/web-applications/zaproxy",
+        "download": "https://gitlab.com/kalilinux/packages/zaproxy",
+        "docs": "https://github.com/zaproxy/zaproxy",
+        "custom": {}
+    },
+    "brutespray": {
+        "homepage": "https://tools.kali.org/password-attacks/brutespray",
+        "download": "https://packages.debian.org/sid/brutespray",
+        "docs": "https://github.com/x90skysn3k/brutespray",
+        "custom": {}
+    },
+    "cewl": {
+        "homepage": "https://tools.kali.org/password-attacks/cewl",
+        "download": "https://gitlab.com/kalilinux/packages/cewl",
+        "docs": "https://digi.ninja/projects/cewl.php",
+        "custom": {}
+    },
+    "cmospwd": {
+        "homepage": "https://tools.kali.org/password-attacks/cmospwd",
+        "download": "https://gitlab.com/kalilinux/packages/cmospwd",
+        "docs": "http://www.cgsecurity.org/wiki/CmosPwd",
+        "custom": {}
+    },
+    "creddump": {
+        "homepage": "https://tools.kali.org/password-attacks/creddump",
+        "download": "https://gitlab.com/kalilinux/packages/creddump",
+        "docs": "https://github.com/moyix/creddump",
+        "custom": {}
+    },
+    "crowbar": {
+        "homepage": "https://tools.kali.org/password-attacks/crowbar",
+        "download": "https://github.com/galkan/crowbar",
+        "docs": "https://github.com/galkan/crowbar",
+        "custom": {}
+    },
+    "crunch": {
+        "homepage": "https://tools.kali.org/password-attacks/crunch",
+        "download": "https://gitlab.com/kalilinux/packages/crunch",
+        "docs": "https://sourceforge.net/projects/crunch-wordlist/",
+        "custom": {}
+    },
+    "findmyhash": {
+        "homepage": "https://tools.kali.org/password-attacks/findmyhash",
+        "download": "https://gitlab.com/kalilinux/packages/findmyhash",
+        "docs": "http://code.google.com/p/findmyhash/",
+        "custom": {}
+    },
+    "gpp-decrypt": {
+        "homepage": "https://tools.kali.org/password-attacks/gpp-decrypt",
+        "download": "https://gitlab.com/kalilinux/packages/gpp-decrypt",
+        "docs": "http://carnal0wnage.attackresearch.com/2012/10/group-policy-preferences-and-getting.html",
+        "custom": {}
+    },
+    "hash-identifier": {
+        "homepage": "https://tools.kali.org/password-attacks/hash-identifier",
+        "download": "https://gitlab.com/kalilinux/packages/hash-identifier",
+        "docs": "http://code.google.com/p/hash-identifier/",
+        "custom": {}
+    },
+    "hashcat": {
+        "homepage": "https://tools.kali.org/password-attacks/hashcat",
+        "download": "https://hashcat.net/hashcat/",
+        "docs": "https://github.com/hashcat/hashcat/",
+        "custom": {}
+    },
+    "hexorbase": {
+        "homepage": "https://tools.kali.org/vulnerability-analysis/hexorbase",
+        "download": "https://gitlab.com/kalilinux/packages/hexorbase",
+        "docs": "https://code.google.com/p/hexorbase/",
+        "custom": {}
+    },
+    "thc-hydra": {
+        "homepage": "https://tools.kali.org/password-attacks/hydra",
+        "download": "https://gitlab.com/kalilinux/packages/hydra",
+        "docs": "http://freeworld.thc.org/thc-hydra/",
+        "custom": {}
+    },
+    "john the ripper": {
+        "homepage": "https://tools.kali.org/password-attacks/john",
+        "download": "https://gitlab.com/kalilinux/packages/john",
+        "docs": "https://www.openwall.com/john/",
+        "custom": {}
+    },
+    "johnny": {
+        "homepage": "https://tools.kali.org/password-attacks/johnny",
+        "download": "https://gitlab.com/kalilinux/packages/johnny",
+        "docs": "http://openwall.info/wiki/john/johnny",
+        "custom": {}
+    },
+    "keimpx": {
+        "homepage": "https://tools.kali.org/password-attacks/keimpx",
+        "download": "https://gitlab.com/kalilinux/packages/keimpx",
+        "docs": "https://github.com/inquisb/keimpx",
+        "custom": {}
+    },
+    "maskprocessor": {
+        "homepage": "https://tools.kali.org/password-attacks/maskprocessor",
+        "download": "https://gitlab.com/kalilinux/packages/maskprocessor",
+        "docs": "https://hashcat.net/wiki/doku.php?id=maskprocessor",
+        "custom": {}
+    },
+    "multiforcer": {
+        "homepage": "https://tools.kali.org/password-attacks/multiforcer",
+        "download": "https://gitlab.com/kalilinux/packages/multiforcer",
+        "docs": "http://sourceforge.net/projects/cryptohaze/",
+        "custom": {}
+    },
+    "ncrack": {
+        "homepage": "https://tools.kali.org/password-attacks/ncrack",
+        "download": "https://gitlab.com/kalilinux/packages/ncrack",
+        "docs": "https://nmap.org/ncrack/",
+        "custom": {}
+    },
+    "oclgausscrack": {
+        "homepage": "https://tools.kali.org/password-attacks/oclgausscrack",
+        "download": "https://gitlab.com/kalilinux/packages/oclgausscrack",
+        "docs": "https://hashcat.net/oclGaussCrack/",
+        "custom": {}
+    },
+    "ophcrack": {
+        "homepage": "https://tools.kali.org/password-attacks/ophcrack",
+        "download": "http://ophcrack.sourceforge.net/",
+        "docs": "http://ophcrack.sourceforge.net/",
+        "custom": {}
+    },
+    "pack": {
+        "homepage": "https://tools.kali.org/password-attacks/pack",
+        "download": "https://gitlab.com/kalilinux/packages/pack",
+        "docs": "http://thesprawl.org/projects/pack/",
+        "custom": {}
+    },
+    "patator": {
+        "homepage": "https://tools.kali.org/password-attacks/patator",
+        "download": "https://gitlab.com/kalilinux/packages/patator",
+        "docs": "http://code.google.com/p/patator/",
+        "custom": {}
+    },
+    "phrasendrescher": {
+        "homepage": "https://tools.kali.org/password-attacks/phrasendrescher",
+        "download": "https://gitlab.com/kalilinux/packages/phrasendrescher",
+        "docs": "http://www.leidecker.info/projects/phrasendrescher/index.shtml",
+        "custom": {}
+    },
+    "polenum": {
+        "homepage": "https://tools.kali.org/password-attacks/polenum",
+        "download": "https://gitlab.com/kalilinux/packages/polenum",
+        "docs": "http://labs.portcullis.co.uk/application/polenum/",
+        "custom": {}
+    },
+    "rainbowcrack": {
+        "homepage": "https://tools.kali.org/password-attacks/rainbowcrack",
+        "download": "https://gitlab.com/kalilinux/packages/rainbowcrack",
+        "docs": "https://project-rainbowcrack.com",
+        "custom": {}
+    },
+    "rcracki-mt": {
+        "homepage": "https://tools.kali.org/password-attacks/rcracki-mt",
+        "download": "https://gitlab.com/kalilinux/packages/rcracki-mt",
+        "docs": "http://freerainbowtables.com/",
+        "custom": {}
+    },
+    "rsmangler": {
+        "homepage": "https://tools.kali.org/password-attacks/rsmangler",
+        "download": "https://gitlab.com/kalilinux/packages/rsmangler",
+        "docs": "https://digi.ninja/projects/rsmangler.php",
+        "custom": {}
+    },
+    "seclists": {
+        "homepage": "https://tools.kali.org/password-attacks/seclists",
+        "download": "https://tools.kali.org/category/password-attacks",
+        "docs": "https://tools.kali.org/author/g0tmi1k",
+        "custom": {}
+    },
+    "sqldict": {
+        "homepage": "https://tools.kali.org/password-attacks/sqldict",
+        "download": "https://gitlab.com/kalilinux/packages/sqldict",
+        "docs": "http://ntsecurity.nu/toolbox/sqldict/",
+        "custom": {}
+    },
+    "statsprocessor": {
+        "homepage": "https://tools.kali.org/password-attacks/statsprocessor",
+        "download": "https://gitlab.com/kalilinux/packages/statsprocessor",
+        "docs": "https://hashcat.net/wiki/doku.php?id=statsprocessor",
+        "custom": {}
+    },
+    "thc-pptp-bruter": {
+        "homepage": "https://tools.kali.org/password-attacks/thc-pptp-bruter",
+        "download": "http://gitlab.com/kalilinux/packages/thc-pptp-bruter",
+        "docs": "http://www.thc.org/releases.php",
+        "custom": {}
+    },
+    "truecrack": {
+        "homepage": "https://tools.kali.org/password-attacks/truecrack",
+        "download": "https://gitlab.com/kalilinux/packages/truecrack",
+        "docs": "http://code.google.com/p/truecrack/",
+        "custom": {}
+    },
+    "wordlists": {
+        "homepage": "https://tools.kali.org/password-attacks/wordlists",
+        "download": "https://tools.kali.org/category/password-attacks",
+        "docs": "https://tools.kali.org/author/g0tmi1k",
+        "custom": {}
+    },
+    "android-sdk": {
+        "homepage": "https://tools.kali.org/hardware-hacking/android-sdk",
+        "download": "https://gitlab.com/kalilinux/packages/android-sdk",
+        "docs": "http://developer.android.com/index.html",
+        "custom": {}
+    },
+    "apktool": {
+        "homepage": "https://tools.kali.org/reverse-engineering/apktool",
+        "download": "https://gitlab.com/kalilinux/packages/apktool",
+        "docs": "https://github.com/iBotPeaches/Apktool",
+        "custom": {}
+    },
+    "arduino": {
+        "homepage": "https://tools.kali.org/hardware-hacking/arduino",
+        "download": "https://gitlab.com/kalilinux/packages/arduino",
+        "docs": "http://www.arduino.cc/",
+        "custom": {}
+    },
+    "dex2jar": {
+        "homepage": "https://tools.kali.org/reverse-engineering/dex2jar",
+        "download": "https://gitlab.com/kalilinux/packages/dex2jar",
+        "docs": "https://github.com/pxb1988/dex2jar/\"",
+        "custom": {}
+    },
+    "sakis3g": {
+        "homepage": "https://tools.kali.org/hardware-hacking/sakis3g",
+        "download": "https://gitlab.com/kalilinux/packages/sakis3g",
+        "docs": null,
+        "custom": {}
+    },
+    "smali": {
+        "homepage": "https://tools.kali.org/reverse-engineering/smali",
+        "download": "https://gitlab.com/kalilinux/packages/smali",
+        "docs": "http://baksmali.com/",
+        "custom": {}
+    },
+    "cherrytree": {
+        "homepage": "https://tools.kali.org/reporting-tools/cherrytree",
+        "download": "http://www.giuspen.com/cherrytree/",
+        "docs": "http://www.giuspen.com/cherrytree/",
+        "custom": {}
+    },
+    "cutycapt": {
+        "homepage": "https://tools.kali.org/web-applications/cutycapt",
+        "download": "https://gitlab.com/kalilinux/packages/cutycapt",
+        "docs": "http://cutycapt.sourceforge.net/",
+        "custom": {}
+    },
+    "dos2unix": {
+        "homepage": "https://tools.kali.org/reporting-tools/dos2unix",
+        "download": "https://gitlab.com/kalilinux/packages/dos2unix",
+        "docs": "http://freshmeat.net/projects/dos2unix",
+        "custom": {}
+    },
+    "dradis": {
+        "homepage": "https://tools.kali.org/reporting-tools/dradis",
+        "download": "https://gitlab.com/kalilinux/packages/dradis",
+        "docs": "http://dradisframework.org",
+        "custom": {}
+    },
+    "magictree": {
+        "homepage": "https://tools.kali.org/reporting-tools/magictree",
+        "download": "https://gitlab.com/kalilinux/packages/magictree",
+        "docs": "http://www.gremwell.com/",
+        "custom": {}
+    },
+    "nipper-ng": {
+        "homepage": "https://tools.kali.org/reporting-tools/nipper-ng",
+        "download": "https://gitlab.com/kalilinux/packages/nipper-ng",
+        "docs": "http://code.google.com/p/nipper-ng/",
+        "custom": {}
+    },
+    "pipal": {
+        "homepage": "https://tools.kali.org/reporting-tools/pipal",
+        "download": "https://gitlab.com/kalilinux/packages/pipal",
+        "docs": "http://www.digininja.org/projects/pipal.php",
+        "custom": {}
+    },
+    "rdpy": {
+        "homepage": "https://tools.kali.org/reporting-tools/rdpy",
+        "download": "https://github.com/citronneur/rdpy",
+        "docs": "https://github.com/citronneur/rdpy",
+        "custom": {}
+    },
+    "python": {
+        "homepage": "https://www.python.org/",
+        "download": "https://www.python.org/downloads/",
+        "docs": "https://docs.python.org/3/",
+        "custom": {
+            "Instalaci\u00f3n de python": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://realpython.com/installing-python/"
+                ],
+                "files": []
+            }
+        }
+    },
+    "c++": {
+        "homepage": "https://isocpp.org/",
+        "download": null,
+        "docs": "http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+        "custom": {
+            "Instalaci\u00f3n de c++": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    null
+                ],
+                "files": []
+            }
+        }
+    },
+    "visual basic": {
+        "homepage": "https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation",
+        "download": "https://visualstudio.microsoft.com/downloads/",
+        "docs": "https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa232759(v=vs.60)",
+        "custom": {
+            "Instalaci\u00f3n de visual basic": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://docs.microsoft.com/en-us/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2019"
+                ],
+                "files": []
+            }
+        }
+    },
+    "c#": {
+        "homepage": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+        "download": "https://www.guru99.com/download-install-visual-studio.html",
+        "docs": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+        "custom": {
+            "Instalaci\u00f3n de c#": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.guru99.com/download-install-visual-studio.html"
+                ],
+                "files": []
+            }
+        }
+    },
+    "javascript": {
+        "homepage": "https://www.javascript.com/",
+        "download": null,
+        "docs": "https://devdocs.io/javascript/",
+        "custom": {
+            "Instalaci\u00f3n de javascript": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    null
+                ],
+                "files": []
+            }
+        }
+    },
+    "php": {
+        "homepage": "https://www.php.net/",
+        "download": "https://www.php.net/downloads",
+        "docs": "https://www.php.net/docs.php",
+        "custom": {
+            "Instalaci\u00f3n de php": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.php.net/manual/en/install.php"
+                ],
+                "files": []
+            }
+        }
+    },
+    "sql": {
+        "homepage": "https://www.iso.org/standard/63555.html",
+        "download": "https://www.microsoft.com/en-us/sql-server/sql-server-downloads",
+        "docs": "https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15",
+        "custom": {
+            "Instalaci\u00f3n de sql": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.dnnsoftware.com/docs/developers/setup/set-up-sql.html"
+                ],
+                "files": []
+            }
+        }
+    },
+    "shell": {
+        "homepage": "https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html",
+        "download": null,
+        "docs": "https://devdocs.io/bash/",
+        "custom": {
+            "Instalaci\u00f3n de shell": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    null
+                ],
+                "files": []
+            }
+        }
+    },
+    "ruby": {
+        "homepage": "https://www.ruby-lang.org/",
+        "download": "https://www.ruby-lang.org/en/downloads/",
+        "docs": "https://www.ruby-lang.org/en/documentation/",
+        "custom": {
+            "Instalaci\u00f3n de ruby": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.ruby-lang.org/en/documentation/installation/"
+                ],
+                "files": []
+            }
+        }
+    },
+    "typescript": {
+        "homepage": "https://www.typescriptlang.org/",
+        "download": "https://www.typescriptlang.org/download",
+        "docs": "https://www.typescriptlang.org/docs/",
+        "custom": {
+            "Instalaci\u00f3n de typescript": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.typescriptlang.org/download"
+                ],
+                "files": []
+            }
+        }
+    },
+    "java": {
+        "homepage": "https://www.oracle.com/java/",
+        "download": "https://www.oracle.com/java/technologies/javase-downloads.html",
+        "docs": "https://docs.oracle.com/en/java/javase/index.html",
+        "custom": {
+            "Instalaci\u00f3n de java": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://docs.oracle.com/en/java/javase/16/install/overview-jdk-installation.html"
+                ],
+                "files": []
+            }
+        }
+    },
+    "c": {
+        "homepage": "https://www.iso.org/standard/74528.html",
+        "download": "http://www.open-std.org/jtc1/sc22/wg14/",
+        "docs": "https://devdocs.io/c/",
+        "custom": {
+            "Instalaci\u00f3n de c": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    null
+                ],
+                "files": []
+            }
+        }
+    },
+    "kali": {
+        "homepage": "https://www.kali.org/",
+        "download": "https://www.kali.org/downloads/",
+        "docs": "https://www.kali.org/docs/",
+        "custom": {
+            "Instalaci\u00f3n de kali": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.kali.org/docs/installation/"
+                ],
+                "files": []
+            }
+        }
+    },
+    "windows": {
+        "homepage": "https://www.microsoft.com/en-us/windows",
+        "download": "https://www.microsoft.com/es-es/software-download/windows10ISO",
+        "docs": "https://docs.microsoft.com/en-us/windows/",
+        "custom": {
+            "Instalaci\u00f3n de windows": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.microsoft.com/es-es/software-download/windows10startfresh"
+                ],
+                "files": []
+            }
+        }
+    },
+    "ubuntu": {
+        "homepage": "https://ubuntu.com",
+        "download": "https://ubuntu.com/#download-content",
+        "docs": "https://help.ubuntu.com/",
+        "custom": {
+            "Instalaci\u00f3n de ubuntu": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://ubuntu.com/search?q=installation+guide"
+                ],
+                "files": []
+            }
+        }
+    },
+    "parrot": {
+        "homepage": "https://parrotsec.org/",
+        "download": "https://parrotsec.org/download",
+        "docs": "https://parrotsec.org/docs/",
+        "custom": {
+            "Instalaci\u00f3n de parrot": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://docs.parrotlinux.org/getting-started/install-parrot/"
+                ],
+                "files": []
+            }
+        }
+    },
+    "arch": {
+        "homepage": "https://archlinux.org/",
+        "download": "https://archlinux.org/download/",
+        "docs": "https://man.archlinux.org/",
+        "custom": {
+            "Instalaci\u00f3n de arch": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://wiki.archlinux.org/index.php/Installation_guide"
+                ],
+                "files": []
+            }
+        }
+    },
+    "manjaro": {
+        "homepage": "https://manjaro.org/",
+        "download": "https://manjaro.org/download/",
+        "docs": "https://wiki.manjaro.org/",
+        "custom": {
+            "Instalaci\u00f3n de manjaro": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://wiki.manjaro.org/index.php/Installation_Guides"
+                ],
+                "files": []
+            }
+        }
+    },
+    "mint": {
+        "homepage": "https://linuxmint.com/",
+        "download": "https://linuxmint.com/download.php",
+        "docs": "https://linuxmint.com/documentation.php",
+        "custom": {
+            "Instalaci\u00f3n de mint": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://linuxmint-installation-guide.readthedocs.io/en/latest/"
+                ],
+                "files": []
+            }
+        }
+    },
+    "fedora": {
+        "homepage": "https://getfedora.org/",
+        "download": "https://getfedora.org/",
+        "docs": "https://fedoraproject.org/wiki/Fedora_Project_Wiki",
+        "custom": {
+            "Instalaci\u00f3n de fedora": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://docs.fedoraproject.org/en-US/Fedora/18/html/Installation_Guide/index.html"
+                ],
+                "files": []
+            }
+        }
+    },
+    "popos": {
+        "homepage": "https://pop.system76.com/",
+        "download": "https://pop.system76.com/",
+        "docs": "https://support.system76.com/#pop",
+        "custom": {
+            "Instalaci\u00f3n de popos": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    null
+                ],
+                "files": []
+            }
+        }
+    },
+    "raspberry": {
+        "homepage": "https://www.raspberrypi.org/software/operating-systems/",
+        "download": "https://www.raspberrypi.org/software/operating-systems/",
+        "docs": "https://www.raspberrypi.org/documentation/",
+        "custom": {
+            "Instalaci\u00f3n de raspberry": {
+                "keywords": [
+                    "instalacion",
+                    "instal"
+                ],
+                "urls": [
+                    "https://www.raspberrypi.org/documentation/installation/installing-images/"
+                ],
+                "files": []
+            }
+        }
+    }
+}
