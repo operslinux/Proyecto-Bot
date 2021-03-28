@@ -2,6 +2,11 @@ import json
 import os
 from utils import KaliTools
 
+"""
+Sólo pruebas, las funciones se pueden implementar más adelante
+pero no es nada definitivo.
+"""
+
 KT = KaliTools()
 kali_tools_dict = KT.tools_dictionary
 all_tools = kali_tools_dict

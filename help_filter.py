@@ -14,7 +14,7 @@ help_keywords = [
     ("pido", 23), ("ocupo", 23), ("necesito", 23)
 ]
 
-# Primer filtro, para ahorrar recursos, sólo indica si el mensaje pudiera 
+# Primer filtro, para ahorrar recursos, sólo indica si el mensaje pudiera
 # contener la palabra "ayuda".
 def needs_help(message):
     return re.search("ayud", message) is not None

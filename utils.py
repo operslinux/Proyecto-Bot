@@ -32,6 +32,7 @@ class KaliTools:
 
 # Función para limpiar el mensaje, con eso nos referimos a remover
 # los acentos, los signos de puntuación y las mayúsculas.
+# Se puede arreglar para sólo eliminar ciertos caracteres y otros no.       ##### REVISAR #####
 def clean_text(text):
     for key, value in {"á":"a", "é":"e", "í":"i", "ó":"o", "ú":"u"}.items():
         text = text.replace(key, value)

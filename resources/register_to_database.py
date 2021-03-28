@@ -1,6 +1,11 @@
 import json
 
 """
+Nada definitivo, sólo una prueba de cómo podría funcionar el registro
+de elementos a las bases de datos.
+"""
+
+"""
 custom_contents = {
     <title1> = {
             "keywords":<words to identify. (list)>,
