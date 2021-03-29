@@ -1,9 +1,0 @@
-Obj:1 http://packages.microsoft.com/repos/code stable InRelease
-Obj:2 http://dl.google.com/linux/chrome/deb stable InRelease
-Obj:3 https://linux.teamviewer.com/deb stable InRelease
-Obj:4 https://deb.parrot.sh/parrot rolling InRelease
-Obj:5 https://deb.parrot.sh/parrot rolling-security InRelease
-Leyendo lista de paquetes...
-Creando árbol de dependencias...
-Leyendo la información de estado...
-Todos los paquetes están actualizados.
