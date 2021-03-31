@@ -1,0 +1,26 @@
+#### INSTALABLES (installables.json) ####
+
+installables = {
+    <nombre> = {
+            "homepage":<página principal>,
+            "download":<url de descarga>,
+            "docs":<url de documentación>
+            "custom":{
+                <título>:{
+                    "keywords":<palabras clave para identificarlo (lista)>
+                    "urls":<urls seleccionadas (lista)>,
+                    "files":<rutas/ids/urls (lista) >
+                    },
+                }
+            },
+}
+
+#### CONTENIDOS PERSONAIZADOS (custom_contents.json) ####
+
+custom_contents = {
+    <título> = {
+            "keywords":<palabras clave para identificarlo (lista)>,
+            "urls":<urls seleccionadas (lista)>,
+            "files":<rutas/ids/urls (lista)>
+            },
+    }
