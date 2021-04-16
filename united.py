@@ -36,10 +36,12 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)# }}}
 
+from safe_data import Data
+data = Data()
 
-TOKEN = "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-CHANNEL_ID = "@XxxxxX" # Ejemplo: @CanalInformacion
-CHANNEL_URL = "https://t.me/ID_DEL_CANAL" # Ejemplo: https://t.me/CanalInformacion
+TOKEN = data.token1
+CHANNEL_ID = data.channel_id
+CHANNEL_URL = data.channel_url
 POSTING = False
 
 CHOICE, LETTER, REGISTER, TITLE, DESCRIPTION, KEYWORDS, URLS, FILES, FINISH = range(9)

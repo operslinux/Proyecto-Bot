@@ -27,8 +27,12 @@ logging.basicConfig(
         )
 logger = logging.getLogger(__name__)
 
-TOKEN = "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-CHANNEL_URL = "https://t.me/ID_DEL_CANAL" # Ejemplo: https://t.me/CanalInformacion
+from safe_data import Data
+
+data = Data()
+
+TOKEN = data.token2
+CHANNEL_URL = data.channel_url
 
 def help_user(update, context):
     try:
