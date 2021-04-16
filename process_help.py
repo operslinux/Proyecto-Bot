@@ -14,13 +14,14 @@ al usuario.
 # Cargar la base de datos de los recursos instalables (programas, sistemas operativos,
 # herramientas, lenguajes de programación, etc.)
 installables = json.loads(open("resources/installables.json","r").read())
-installables_list = [item.lower() for item in installables]
+#installables_list = [item.lower() for item in installables]
+installables_list = [item for item in installables]
 
 # Cargar la base de datos de recursos personalizados (cualquier tipo de recurso).
 custom_contents = json.loads(open("resources/custom_contents.json","r").read())
 
 # Palabras clave donde alguien dice ser iniciante.
-beginner_keywords = [, "mundillo", "soy nuevo"]
+beginner_keywords = ["mundillo", "soy nuevo"]
 
 
 class Recolector:
@@ -46,7 +47,7 @@ class Recolector:
 
         # Añade los atributos esenciales, basándose en las variables globales (las bases de datos y las
         # listas de palabras clave).
-        self.installables = [software for software in installables_list if software in self.message_list]
+        self.installables = [software for software in installables_list if software.lower() in self.message_list]
         self.installation = re.search("instal", self.message) is not None
         self.keywords = [keyword for keyword in self.all_keywords if keyword in self.message_list]
         self.beginner = any([True for kwd in beginner_keywords if re.search(kwd, message)])
@@ -58,10 +59,13 @@ class Recolector:
         # Obtiene las palabras clave registradas en cada elemento de la base de datos de
         # los instalables y de recursos personalizados.
         custom_items = [custom_contents[item]["keywords"] for item in custom_contents]
-        custom_keywords = set([keyword.lower() for all_kws in custom_items for keyword in all_kws])
+        #custom_keywords = set([keyword.lower() for all_kws in custom_items for keyword in all_kws])
+        custom_keywords = set([keyword for all_kws in custom_items for keyword in all_kws])
 
         installable_items = [item[each]["keywords"] for item in [installables[item]["custom"] for item in installables] for each in item]
-        installable_keywords = set([keyword.lower() for keywords in installable_items for keyword in keywords])
+        installable_keywords = set([keyword for keywords in installable_items for keyword in keywords])
+        #installable_keywords = set([keyword for keywords in installable_items for keyword in keywords])
+        #installable_keywords = set([keyword for keyword in installable_items])
 
         self.all_keywords = custom_keywords.union(installable_keywords)
 
@@ -74,45 +78,59 @@ class Recolector:
             for rsc in custom:
                 if rsc:
                     keywords = custom[rsc]["keywords"]
-                    if "instal" in keywords:
+                    if "instalación" in keywords or "instalacion in keywords":
                         return custom[rsc]["urls"]
         return []
 
     def get_installable_info(self, installable):
         # Obtiene todos los atributos del elemento en la base de datos
         # de los instalables.
-        return installables[installable]
+        data = installables[installable].copy()
+        del data["custom"]
+        return data
 
     def get_info_installable_keywords(self, installable, keywords):
-        # Reúne todos los recursos (del instalable) que incluyen las palabras clave.
-        # Debe revisarse para que no haya recursos repetidos
-        # y que estén ordenados dependiendo de cuántas palabras clave coincidan         ########## REVISAR #########.
+        # Reúne los recursos de elementos de "instalables".
         resources = installables[installable]
         custom = resources["custom"]
         data_found = []
-        if custom:
-            for keyword in keywords:
-                for rsc in custom:
-                    if rsc:
-                        keywords = custom[rsc]["keywords"]
-                        if keyword in keywords:
-                            data_found.append({rsc:custom[rsc]})
-        return data_found
+        # Genera lista de los elementos que contienen las palabras clave
+        # los guarda como diccionarios, "título" y "num" que es el número de
+        # palabras clave que fueron detectadas en el recurso específico.
+        for rsc in resources["custom"]:
+            resource_keywords = resources["custom"][rsc]["keywords"]
+            total = sum([True for key in keywords if key in resource_keywords])
+            if total > 0:
+                data_found.append({"title":rsc, "num": total})
+        # Ordena los elementos por los que contienen más palabras clave y luego elimina los
+        # elementos duplicados.
+        ordered = sorted(data_found, key = lambda x:x["num"], reverse = False)
+        all_titles = set([i["title"] for i in data_found])
+        dic = dict([(item["title"], item["num"]) for item in ordered])
+        relevance_filtering = sorted(dic, key = lambda x:dic[x], reverse = True)
+
+        # Un diccionario del contenido encontrado, ordenado según el número de palabras
+        # clave que coinciden.
+        recolected = dict([(item, custom[item]) for item in relevance_filtering])
+        return recolected
 
     def get_info_keywords(self, keywords):
         # Lo mismo que 'get_info_installable_keywords' pero de los recursos personalizados.
-        # Debe revisarse para que no haya recursos repetidos
-        # y que estén ordenados dependiendo de cuántas palabras clave coincidan         ########## REVISAR #########.
         resources = custom_contents
         data_found = []
-        for keyword in keywords:
-            if resources:
-                for rsc in resources:
-                    if rsc:
-                        keywords = resources[rsc]["keywords"]
-                        if keyword in keywords:
-                            data_found.append({rsc:resources[rsc]})
-        return data_found
+        for rsc in resources:
+            resource_keywords = resources[rsc]["keywords"]
+            total = sum([True for key in keywords if key in resource_keywords])
+            if total > 0:
+                data_found.append({"title":rsc, "num": total})
+
+        ordered = sorted(data_found, key = lambda x:x["num"], reverse = False)
+        all_titles = set([i["title"] for i in data_found])
+        dic = dict([(item["title"], item["num"]) for item in ordered])
+        relevance_filtering = sorted(dic, key = lambda x:dic[x], reverse = True)
+
+        recolected = dict([(item, resources[item]) for item in relevance_filtering])
+        return recolected
 
     def get_info_beginner(self):
         # Debe obtener los recursos para principiantes
@@ -127,15 +145,14 @@ class Recolector:
                 "installation":{},
                 "installable_keywords":{},
                 "custom_from_keywords":{},
-                "beginner":{}
+                "beginner":False
                 }
         if self.installables:
             for installable in self.installables:
                 data["installables"][installable] = self.get_installable_info(installable)
 
             if self.installation:
-                for installable in self.installables:
-                    data["installation"][installable] = self.get_info_installation(installable)
+                data["installation"] = True
 
             if self.keywords:
                 for installable in self.installables:
@@ -146,7 +163,7 @@ class Recolector:
             if self.keywords:
                 data["custom_from_keywords"] = self.get_info_keywords(self.keywords)
 
-            if self.beginner:
-                data["beginner"] = {"data": self.get_info_beginner()}
+        if self.beginner:
+            data["beginner"] = True
 
         self.data = data

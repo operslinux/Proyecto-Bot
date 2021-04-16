@@ -1,13 +1,26 @@
 {
-    "Cambia el orden del grub": {
+    "Hackear whatsapp": {
+        "post_id": 1025,
+        "description": "Riesgo que corres al dejar tu celular con alguien más.",
         "keywords": [
-            "grub"
+            "hack",
+            "hackear",
+            "whatsapp"
         ],
         "urls": [
-            "https://itomation.ca/easily-change-grub-boot-order-kali-linux/"
+            "https://operslinux.com/como-hackear-whatsapp-con-qrljacking-en-kali-linux/"
         ],
-        "files": [
-            ""
-        ]
+        "files": []
+    },
+    "¿Qué es un VPN y para qué sirve?": {
+        "post_id": 1026,
+        "description": "Básicamente, eso, qué es y para qué sirve una VPN.",
+        "keywords": [
+            "vpn"
+        ],
+        "urls": [
+            "https://operslinux.com/que-es-una-vpn-para-que-sirve/"
+        ],
+        "files": []
     }
 }

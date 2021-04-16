@@ -4,12 +4,15 @@ installables = {
     <nombre> = {
             "homepage":<página principal>,
             "download":<url de descarga>,
-            "docs":<url de documentación>
+            "docs":<url de documentación>,
+            "post_id":<id de publicación en canal>,
             "custom":{
                 <título>:{
+                    "post_id":<id de post en canal>
+                    "description":<descripción>
                     "keywords":<palabras clave para identificarlo (lista)>
                     "urls":<urls seleccionadas (lista)>,
-                    "files":<rutas/ids/urls (lista) >
+                    "files":<rutas/ids/urls (lista)>,
                     },
                 }
             },
@@ -17,10 +20,14 @@ installables = {
 
 #### CONTENIDOS PERSONAIZADOS (custom_contents.json) ####
 
+C_TITLE, C_DESCRIPTION, C_KEYWORDS, C_URLS, C_FILES = range(5)
+
 custom_contents = {
     <título> = {
+            "post_id":<id del post en canal>
+            "description":<descripción>
             "keywords":<palabras clave para identificarlo (lista)>,
             "urls":<urls seleccionadas (lista)>,
-            "files":<rutas/ids/urls (lista)>
+            "files":<rutas/ids/urls (lista)>,
             },
     }
